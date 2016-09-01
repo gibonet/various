@@ -20,7 +20,7 @@ head(d)
 # These can be plotted for example with ggplot2
 library(ggplot2)
 
-p <- ggplot(data = d, aes(x = lon, y = lat, group = group))
+p <- ggplot(data = d, aes(x = long, y = lat, group = group))
 
 p + geom_path() + coord_equal()
 
