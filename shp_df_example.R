@@ -9,7 +9,7 @@ unique(sapply(shp_df, class))
 # Every element of the list is a data frame
 names(shp_df)
 
-# Give a look of one of these data frames
+# Give a look at one of these data frames
 d <- shp_df[["g1k15"]]
 
 str(d)
