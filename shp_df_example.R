@@ -24,3 +24,36 @@ p <- ggplot(data = d, aes(x = long, y = lat, group = group))
 
 p + geom_path() + coord_equal()
 
+
+# From that, polygons can be filled with colors, by adding a geom_polygon layer:
+p + geom_path() + coord_equal() + geom_polygon(aes(fill = KTNAME), alpha = 0.5)
+
+# Or, geocoded data can be added on the map (with geom_point or other types of layers, as geom_density2d, geom_hexbin, ...)
+
+
+# The coordinates can be plotted with ggvis too:
+library(ggvis)
+library(dplyr)  # for group_by (and %>%)
+d %>%
+  group_by(group) %>%
+  ggvis(x = ~long, y = ~lat) %>%
+  layer_paths() %>%
+  set_options(keep_aspect = TRUE)
+
+# Filling polygons by the maximum altitude
+d %>%
+  group_by(group) %>%
+  ggvis(x = ~long, y = ~lat) %>%
+  layer_paths(fill = ~Z_MAX) %>%
+  set_options(keep_aspect = TRUE)
+
+# With "little" interactivity
+d %>%
+  group_by(group) %>%
+  ggvis(x = ~long, y = ~lat) %>%
+  layer_paths(fill = ~Z_MAX) %>%
+  set_options(keep_aspect = TRUE) %>%
+  hide_axis("x") %>% hide_axis("y") %>% 
+  handle_click(on_click = function(data, ...) {print(data)})
+# I took this last example from this link:
+# # http://www.alshum.com/ggvis-maps/
