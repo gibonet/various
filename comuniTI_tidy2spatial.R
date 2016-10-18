@@ -16,7 +16,6 @@ library(ggswissmaps)
 data("comuniTI")
 
 str(comuniTI)
-comuniTI$municipalityLongName
 
 # Estraggo la lista dei comuni all'1.1.2015
 c15 <- comuni_stato(comuniTI, data.rif = "2015-01-01")
