@@ -1,0 +1,795 @@
+"sezioni";"codici";"titoli_corti";"l"
+"A";"011100";"Colt. di cereali, legumi da granella";6
+"A";"011200";"Colt. del riso";6
+"A";"011300";"Colt. di ortaggi e meloni";6
+"A";"011400";"Colt. di canna da zucchero";6
+"A";"011500";"Colt. di tabacco";6
+"A";"011600";"Colt. di piante tessili";6
+"A";"011900";"Colt. di altre colture non permanenti";6
+"A";"012101";"Colt. di uva";6
+"A";"012102";"Viticoltura – Vinificazione";6
+"A";"012200";"Colt. di frutta di origine tropicale";6
+"A";"012300";"Colt. di agrumi";6
+"A";"012400";"Colt. di pomacee e frutta a nocciolo";6
+"A";"012500";"Colt. di altri alberi da frutta";6
+"A";"012600";"Colt. di frutti oleosi";6
+"A";"012700";"Colt. di piante per la prod. di bevande";6
+"A";"012800";"Colt. di spezie, piante aromat. e farma.";6
+"A";"012900";"Colt. di altre colture permanenti";6
+"A";"013000";"Riprod. delle piante";6
+"A";"014100";"All. di bovini da latte";6
+"A";"014200";"All. di altri bovini e di bufalini";6
+"A";"014300";"All. di cavalli e altri equini";6
+"A";"014400";"All. di cammelli e camelidi";6
+"A";"014500";"All. di ovini e caprini";6
+"A";"014600";"All. di suini";6
+"A";"014700";"All. di pollame";6
+"A";"014900";"All. di altri animali";6
+"A";"015000";"Colt. agr. ass. all'all. di animali";6
+"A";"016100";"Att. di supporto alla prod. Vegetale";6
+"A";"016200";"Att. di supporto alla prod. animale";6
+"A";"016300";"Att. successive alla raccolta";6
+"A";"016400";"Lav. delle sementi per la semina";6
+"A";"017000";"Caccia, cattura di animali";6
+"A";"021000";"Silvicolt. e altre att. forestali";6
+"A";"022000";"Utilizzo di aree forest.";6
+"A";"023000";"Raccolta di prod. non legnosi selvatici";6
+"A";"024000";"Servizi di supporto per la silvicolt.";6
+"A";"031100";"Pesca marina";6
+"A";"031200";"Pesca in acque dolci";6
+"A";"032100";"Acquicolt. marina";6
+"A";"032200";"Acquicolt. in acque dolci";6
+"B";"051000";"Estr. di antracite";6
+"B";"052000";"Estr. di lignite";6
+"B";"061000";"Estr. di petrolio greggio";6
+"B";"062000";"Estr. di gas naturale";6
+"B";"071000";"Estr. di min. metalliferi ferrosi";6
+"B";"072100";"Estr. di min. di uranio e di torio";6
+"B";"072900";"Estr. di altri min. metalliferi non fer.";6
+"B";"081100";"Estr. di pietre ornamentali e da costr.";6
+"B";"081200";"Estr. di ghiaia, sabbia";6
+"B";"089100";"Estr. di min. per l'industria chimica";6
+"B";"089200";"Estr. di torba";6
+"B";"089300";"Estr. di sale";6
+"B";"089900";"Altre att. estrattive nca";6
+"B";"091000";"Att. di supporto all'estr. di petrolio";6
+"B";"099000";"Att. di supporto ad altre att. estr.";6
+"C";"101100";"Prod. di carne, esclusi i volatili";6
+"C";"101200";"Prod. di carne di volatili";6
+"C";"101300";"Prod. di prodotti a base di carne";6
+"C";"102000";"Lavorazione e cons. di pesce";6
+"C";"103100";"Lavorazione e cons. delle patate";6
+"C";"103200";"Prod. di succhi di frutta e di ortaggi";6
+"C";"103900";"Altre lav. e cons. di frutta e ortaggi";6
+"C";"104100";"Prod. di oli e grassi";6
+"C";"104200";"Prod. di margarina e di grassi commest.";6
+"C";"105101";"Trattamento e conf. del latte fresco";6
+"C";"105102";"Prod. di formaggio";6
+"C";"105103";"Prod. di altri derivati del latte";6
+"C";"105200";"Prod. di gelati";6
+"C";"106100";"Lav. delle granaglie";6
+"C";"106200";"Prod. di amidi e di prod. amidacei";6
+"C";"107100";"Prod. di pane; prod. di pasticceria";6
+"C";"107200";"Prod. di fette biscottate e di biscotti";6
+"C";"107300";"Prod. di paste alimentari";6
+"C";"108100";"Prod. di zucchero";6
+"C";"108201";"Prod. di cacao e cioccolato";6
+"C";"108202";"Prod. di confetterie";6
+"C";"108300";"Lav. del tè e del caffè";6
+"C";"108400";"Prod. di condimenti e spezie";6
+"C";"108500";"Prod. di pasti e piatti preparati";6
+"C";"108600";"Prod. di preparati omogeneizzati";6
+"C";"108900";"Prod. di altri prodotti alim. nca";6
+"C";"109100";"Prod. di mangimi per l'alim. degli anim.";6
+"C";"109200";"Prod. di prod. per l'alim. d. anim. dom.";6
+"C";"110100";"Distil., rett. e miscelatura di alcolici";6
+"C";"110200";"Prod. di vini da uve";6
+"C";"110300";"Prod. di sidro";6
+"C";"110400";"Prod. di altre bevande ferm. non distil.";6
+"C";"110500";"F. di birra";6
+"C";"110600";"F. di malto";6
+"C";"110700";"Prod. di bibite analcoliche";6
+"C";"120000";"Prod. di tabacchi";6
+"C";"131001";"Prep. e filatura di fibre tipo cotone";6
+"C";"131002";"Prep. e fil. di fibre tipo lana cardata";6
+"C";"131003";"Torcitura e prep. della seta e di filati";6
+"C";"131004";"Prep. e filatura di altre fibre tessili";6
+"C";"132001";"Tess. di filati tipo cotone";6
+"C";"132002";"Tess. di filati tipo lana";6
+"C";"132003";"Tess. di altre materie tessili";6
+"C";"133000";"Finissaggio dei tess.";6
+"C";"139100";"F. di tessuti a maglia";6
+"C";"139201";"Conf. di biancheria da letto, da tavola";6
+"C";"139202";"F. di articoli da letto";6
+"C";"139203";"F. di altri articoli in mat. tessili";6
+"C";"139300";"F. di tappeti e moquette";6
+"C";"139400";"F. di spago, corde, funi e reti";6
+"C";"139500";"F. di tessuti non tessuti";6
+"C";"139600";"F. di tessuti per uso tecnico e ind.";6
+"C";"139901";"F. di ricami";6
+"C";"139902";"F. di passamanerie";6
+"C";"139903";"F. di altri tessili nca";6
+"C";"141100";"Conf. di abbigliamento in pelle";6
+"C";"141200";"Conf. di indumenti da lavoro";6
+"C";"141301";"Conf. di indumenti per uomo e bambino";6
+"C";"141302";"Conf. di indumenti per donna, bambina";6
+"C";"141303";"Conf. di indumenti esterni s.p.";6
+"C";"141401";"Conf. di biancheria pers. per uomo";6
+"C";"141402";"Conf. di biancheria pers. per donna";6
+"C";"141403";"Conf. di biancheria pers. esterni s.p.";6
+"C";"141900";"Conf. di altri art. di abb. ed accessori";6
+"C";"142000";"Conf. di articoli in pelliccia";6
+"C";"143100";"F. di art. di calzetteria in maglia";6
+"C";"143900";"F. di altri articoli di maglieria";6
+"C";"151100";"Prep. e tintura di pellicce";6
+"C";"151200";"F. di art. da viaggio, borse e simili";6
+"C";"152000";"F. di calzature";6
+"C";"161001";"Taglio del legno";6
+"C";"161002";"Piallatura del legno e tratt. di superf.";6
+"C";"161003";"Tratt. del legno";6
+"C";"162100";"F. di fogli da impiall. e di pannelli";6
+"C";"162200";"F. di pavimenti a parquet assemblati";6
+"C";"162301";"Falegn. per l'edilizia, porte e finestre";6
+"C";"162302";"Falegnameria per interni";6
+"C";"162303";"F. di altri elem. di carpent. in legno";6
+"C";"162400";"F. di imballaggi in legno";6
+"C";"162900";"F. di altri prod. in legno";6
+"C";"171100";"F. di pasta-carta";6
+"C";"171200";"F. di carta e di cartone";6
+"C";"172100";"F. di carta e cartoni ondulati";6
+"C";"172200";"F. di prod. di carta e cartone";6
+"C";"172300";"F. di prod. cartotecnici";6
+"C";"172400";"F. di carta da parati";6
+"C";"172900";"F. di altri art. di carta e cartone";6
+"C";"181100";"Stampa di giornali";6
+"C";"181201";"Stampa offset";6
+"C";"181202";"Serigrafia";6
+"C";"181203";"Eliografia e riprografia";6
+"C";"181204";"Altre stampe nca";6
+"C";"181301";"Att. preliminari alla stampa";6
+"C";"181302";"Altre att. connesse alla stampa nca";6
+"C";"181400";"Rilegatura e servizi conn.";6
+"C";"182000";"Riprod. su supporti registrati";6
+"C";"191000";"F. di prodotti di cokeria";6
+"C";"192000";"F. di prod. derivanti dalla raffin.";6
+"C";"201100";"F. di gas industriali";6
+"C";"201200";"F. di coloranti e pigmenti";6
+"C";"201300";"F. di altri prod. chim. di base inorg.";6
+"C";"201400";"F. di a. prod. chim. di base organici";6
+"C";"201500";"F. di fertil. e di composti azotati";6
+"C";"201600";"F. di mat. plastiche in forme primarie";6
+"C";"201700";"F. di gomma sint. in forme primarie";6
+"C";"202000";"F. di fitofarmaci e di altri prod. chim.";6
+"C";"203000";"F. di pitture, vernici e smalti";6
+"C";"204100";"F. di saponi e detergenti";6
+"C";"204200";"F. di profumi e cosmetici";6
+"C";"205100";"F. di esplosivi";6
+"C";"205200";"F. di colle";6
+"C";"205300";"F. di oli essenziali";6
+"C";"205900";"F. di altri prod. chimici nca";6
+"C";"206000";"F. di fibre sint. e artificiali";6
+"C";"211000";"F. di prodotti farmaceutici di base";6
+"C";"212000";"F. di preparati farmaceutici";6
+"C";"221100";"F. di pneumatici e camere d'aria";6
+"C";"221900";"F. di altri prodotti in gomma";6
+"C";"222100";"F. di lastre, fogli, tubi";6
+"C";"222200";"F. di imballaggi in mat. plastiche";6
+"C";"222300";"F. di art. in plastica per l'edilizia";6
+"C";"222900";"F. di altri art. in materie plastiche";6
+"C";"231100";"F. di vetro piano";6
+"C";"231200";"Lav. e trasf. del vetro piano";6
+"C";"231300";"F. di vetro cavo";6
+"C";"231400";"F. di fibre di vetro";6
+"C";"231900";"F. e lavorazione di altro vetro";6
+"C";"232000";"F. di prodotti refrattari";6
+"C";"233100";"F. di piastrelle in ceram. per pavim.";6
+"C";"233200";"F. di mattoni, tegole ed altri prod.";6
+"C";"234100";"F. di prod. in ceram. per usi dom.";6
+"C";"234200";"F. di articoli sanitari in ceramica";6
+"C";"234300";"F. di isolatori e di pezzi in ceram.";6
+"C";"234400";"F. di a. prod. in ceram. per uso tecn.";6
+"C";"234900";"F. di altri prodotti in ceramica";6
+"C";"235100";"Prod. di cemento";6
+"C";"235200";"Prod. di calce e gesso";6
+"C";"236100";"F. di prod. in calces. per l'edilizia";6
+"C";"236200";"F. di prod. in gesso per l'edilizia";6
+"C";"236300";"F. di calcestruzzo pronto per l'uso";6
+"C";"236400";"F. di malta";6
+"C";"236500";"F. di prod. in fibrocemento";6
+"C";"236900";"F. di altri prod. in calcestruzzo";6
+"C";"237000";"Taglio, modellatura e finit. di pietre";6
+"C";"239100";"F. di prodotti abrasivi";6
+"C";"239901";"F. di prod. a base di asfalto";6
+"C";"239902";"A. f. di a. prod. in min. non met. nca";6
+"C";"241000";"Att. siderurgiche";6
+"C";"242000";"F. di tubi, condotti, profilati cavi";6
+"C";"243100";"Stiratura a freddo di barre";6
+"C";"243200";"Laminazione a freddo di nastri";6
+"C";"243300";"Profilatura mediante formatura";6
+"C";"243400";"Trafilatura a freddo";6
+"C";"244100";"Produzione di metalli preziosi";6
+"C";"244200";"Prod. e att. di prima trasf. di allu.";6
+"C";"244300";"Prod. e att. di prima trasf. di piombo";6
+"C";"244400";"Prod. e att. di prima trasf. di rame";6
+"C";"244500";"Att. di prima trasf. d. met. non ferrosi";6
+"C";"244600";"Tratt. dei combustibil nucleari";6
+"C";"245100";"Fusione di ghisa";6
+"C";"245200";"Fusione di acciaio";6
+"C";"245300";"Fusione di metalli leggeri";6
+"C";"245400";"Fusione di altri metalli non ferrosi";6
+"C";"251100";"F. di strutture metalliche";6
+"C";"251200";"F. di porte e finestre in metallo";6
+"C";"252100";"F. di radiatori e contenitori in met.";6
+"C";"252900";"F. di altre cisterne, serbatoi";6
+"C";"253000";"F. di generatori di vapore";6
+"C";"254000";"F. di armi e munizioni";6
+"C";"255000";"Fucinatura, imbutitura, stampaggio";6
+"C";"256100";"Tratt. e rivestimento dei metalli";6
+"C";"256201";"Lav. di officina meccanica";6
+"C";"256202";"Lav. da fabbro";6
+"C";"256203";"Lav. di fucinatura";6
+"C";"257100";"F. di art. di coltelleria e posateria";6
+"C";"257200";"F. di serrature e cerniere";6
+"C";"257300";"F. di utensileria";6
+"C";"259100";"F. di bidoni in acciaio";6
+"C";"259200";"F. di imballaggi leggeri in metallo";6
+"C";"259300";"F. di prod. fabbricati con fili met.";6
+"C";"259400";"F. di articoli di bulloneria";6
+"C";"259900";"F. di altri prod. in metallo nca";6
+"C";"261100";"F. di componenti elettronici";6
+"C";"261200";"F. di schede elettroniche integrate";6
+"C";"262000";"F. di computer e unità periferiche";6
+"C";"263000";"F. di app. per le comunicazioni";6
+"C";"264000";"F. di prod. di el. di consumo";6
+"C";"265100";"F. di strumenti e app. di misurazione";6
+"C";"265201";"F. e assemblaggio di orologi";6
+"C";"265202";"F. e assemblaggio di grandi orologi";6
+"C";"265203";"F. e assembl. di meccanismi di orologi";6
+"C";"265204";"F. di casse e quadranti";6
+"C";"265205";"F. di altre parti di orologi";6
+"C";"266000";"F. di strum. per irradiazione medicale";6
+"C";"267000";"F. di strum. ottici e attrezz. fotograf.";6
+"C";"268000";"F. di supporti ottici e magnetici";6
+"C";"271100";"F. di motori, generatori e trasf. el.";6
+"C";"271200";"F. di app. per la distribuzione el.";6
+"C";"272000";"F. di batterie e accumulatori";6
+"C";"273100";"F. di cavi a fibre ottiche";6
+"C";"273200";"F. di altri fili e cavi elettronici";6
+"C";"273300";"F. di attrezz. per cablaggio";6
+"C";"274000";"F. di app. per illuminazione";6
+"C";"275100";"F. di elettrodomestici";6
+"C";"275200";"F. di app. per uso dom. non elettrici";6
+"C";"279000";"F. di altre app. elettriche";6
+"C";"281100";"F. di motori e turbine";6
+"C";"281200";"F. di app. fluidodinamiche";6
+"C";"281300";"F. di altre pompe e compressori";6
+"C";"281400";"F. di altri rubinetti e valvole";6
+"C";"281500";"F. di cuscinetti, ingranaggi";6
+"C";"282100";"F. di forni, caldaie";6
+"C";"282200";"F. di app. di sollevamento e mov.";6
+"C";"282300";"F. di macch. e attrezz. per ufficio";6
+"C";"282400";"F. di utensili portatili a motore";6
+"C";"282500";"F. di attrezz. di uso non domestico";6
+"C";"282900";"F. di altre macch. d'impiego gen. nca";6
+"C";"283000";"F. di macch. per l'agr. e la silvicolt.";6
+"C";"284100";"F. di macch. per la formatura dei met.";6
+"C";"284900";"F. di altre macch. utensili nca";6
+"C";"289100";"F. di macch. per la metallurgia";6
+"C";"289200";"F. di macchine da miniera";6
+"C";"289300";"F. di macch. per l'industria alim.";6
+"C";"289400";"F. di macchine per le industrie tess.";6
+"C";"289500";"F. di macch. per l'ind. della carta";6
+"C";"289600";"F. di macch. per l'ind. d. mat. plast.";6
+"C";"289901";"F. di macch. per la stampa";6
+"C";"289902";"F. d. macch. per impieghi spec. nca";6
+"C";"291000";"F. di autoveicoli";6
+"C";"292000";"F. di carrozzerie per autoveicoli";6
+"C";"293100";"F. di app. el. ed elettroniche";6
+"C";"293200";"F. di altre parti ed acc. per autov.";6
+"C";"301100";"Costr. di navi e di strutt. galleggianti";6
+"C";"301200";"Costr. di imbarcazioni da diporto";6
+"C";"302000";"Costr. di locomotive e di mat. rotabile";6
+"C";"303000";"F. di aeromobili, di veicoli spaziali";6
+"C";"304000";"F. di veicoli militari da combatt.";6
+"C";"309100";"F. di motocicli";6
+"C";"309201";"F. di biciclette";6
+"C";"309202";"F. di veicoli per invalidi";6
+"C";"309900";"F. di altri mezzi di trasporto nca";6
+"C";"310100";"F. di mobili per uffici e negozi";6
+"C";"310200";"F. di mobili per cucina e bagni";6
+"C";"310300";"F. di materassi";6
+"C";"310900";"F. di altri mobili";6
+"C";"321100";"Conio di monete";6
+"C";"321201";"Lav. di pietre preziose";6
+"C";"321202";"F. d. oggetti di oref. e gioielleria nca";6
+"C";"321300";"F. di bigiotteria e art. simili";6
+"C";"322000";"F. di strumenti musicali";6
+"C";"323000";"F. di articoli sportivi";6
+"C";"324000";"F. di giochi e giocattoli";6
+"C";"325001";"F. di strum. e forniture med. e dentist.";6
+"C";"325002";"F. di protesi ortopediche";6
+"C";"325003";"Att. di meccanici-dentisti";6
+"C";"325004";"F. di occhiali";6
+"C";"329100";"F. di scope e spazzole";6
+"C";"329900";"Altre ind. manifatturiere nca";6
+"C";"331100";"Ripar. di prod. in metallo";6
+"C";"331200";"Ripar. di macchinari";6
+"C";"331300";"Ripar. di app. elettroniche ed ottiche";6
+"C";"331400";"Ripar. di app. elettriche";6
+"C";"331500";"Ripar. e man. di navi e imbarcazioni";6
+"C";"331600";"Ripar. e manutenzione di aeromobili";6
+"C";"331700";"Ripar. e man. di altri mezzi di trasp.";6
+"C";"331900";"Ripar. di altre apparecchiature";6
+"C";"332000";"Inst. di macch. ed app. industriali";6
+"D";"351100";"Prod. di energia elettrica";6
+"D";"351200";"Trasmissione di energia elettrica";6
+"D";"351300";"Distr. di energia elettrica";6
+"D";"351400";"Comm. di energia elettrica";6
+"D";"352100";"Produzione di gas";6
+"D";"352200";"Distr. di combustibili gassosi";6
+"D";"352300";"Comm. di gas distribuito mediante cond.";6
+"D";"353000";"Fornitura di vapore e aria condizionata";6
+"E";"360000";"Raccolta, tratt. e fornitura di acqua";6
+"E";"370000";"Gestione delle reti fognarie";6
+"E";"381100";"Racc. di rifiuti non pericolosi";6
+"E";"381200";"Racc. di rifiuti pericolosi";6
+"E";"382100";"Tratt. e smalt. di rifiuti non pericol.";6
+"E";"382200";"Tratt. e smalt. di rifiuti pericolosi";6
+"E";"383100";"Demolizione di carcasse";6
+"E";"383200";"Rec. dei materiali selezionati";6
+"E";"390000";"Att. di risanamento";6
+"F";"411000";"Sviluppo di progetti imm.";6
+"F";"412001";"Costruzione generale di edifici";6
+"F";"412002";"Att. delle imprese generali di costr.";6
+"F";"412003";"Costr. edili e di genio civile s.p.";6
+"F";"412004";"Manutenzione e ripar. di costr. edili";6
+"F";"421100";"Costr. di strade e autostrade";6
+"F";"421200";"Costr. di linee ferrov. e metropolitane";6
+"F";"421300";"Costr. di ponti e gallerie";6
+"F";"422100";"Costr. di infra. per il trasp. di fluidi";6
+"F";"422200";"Costr. di infra. per l'energia elettrica";6
+"F";"429100";"Costr. di opere idrauliche";6
+"F";"429900";"Costr. di a. opere di ing. civile nca";6
+"F";"431100";"Demolizione";6
+"F";"431200";"Prep. del cantiere edile";6
+"F";"431300";"Trivellazioni e perforazioni";6
+"F";"432100";"Inst. d'impianti elettrici";6
+"F";"432201";"Inst. d'impianti sanitari";6
+"F";"432202";"Inst. d'impianti sanitari, di lattoneria";6
+"F";"432203";"Inst. d'impianti sanitari e di riscal.";6
+"F";"432204";"Inst. d'impianti di riscaldamento";6
+"F";"432901";"Lavori d'isolamento termico, acustico";6
+"F";"432902";"Altri lavori di costruzione e inst.";6
+"F";"433100";"Intonacatura";6
+"F";"433200";"Posa in opere d'infissi";6
+"F";"433301";"Rivestimento di pavimenti";6
+"F";"433302";"Posa di piastrelle";6
+"F";"433303";"Posa di carta da parati";6
+"F";"433401";"Pittura";6
+"F";"433402";"Pittura e stuccatura s.p.";6
+"F";"433403";"Posa in opera di vetrate";6
+"F";"433900";"A. lav. di complet. e di finit. d. edif.";6
+"F";"439101";"Costr. in legno (carpenteria)";6
+"F";"439102";"Copertura di tetti";6
+"F";"439103";"Lavori di lattoneria";6
+"F";"439901";"Lav. di impermeabilizzazione";6
+"F";"439902";"Mont. e smontaggio di ponteggi";6
+"F";"439903";"Lavori di muratura";6
+"F";"439904";"Nol. di macch. per la costr. con oper.";6
+"F";"439905";"Altri lav. speciali di costruzione nca";6
+"G";"451101";"Ic. e ci. di autov. leggeri (<3,5 t)";6
+"G";"451102";"Cd. di autov. leggeri (<3,5 t)";6
+"G";"451901";"Ic. e ci. di altri autoveicoli (>3,5 t)";6
+"G";"451902";"Cd. di altri autoveicoli (>3,5 t)";6
+"G";"452001";"Man. e riparazione di autoveicoli";6
+"G";"452002";"Rip. e verniciatura delle carrozzerie";6
+"G";"453100";"Ci. di parti e acc. di autoveicoli";6
+"G";"453200";"Cd. di parti e acc. di autoveicoli";6
+"G";"454000";"Comm., man. e ripar. di motocicli";6
+"G";"461100";"Ic. di mat. prime agr., di anim. vivi";6
+"G";"461200";"Ic. di combustibili, min. metalli";6
+"G";"461300";"Ic. di legname e mat. da costruzione";6
+"G";"461400";"Ic. di macchinari, impianti industriali";6
+"G";"461500";"Ic. di mobili, art. per la casa";6
+"G";"461600";"Ic. di prod. tess., abb., calzature";6
+"G";"461700";"Ic. di prod. alim., bevande e tabacco";6
+"G";"461800";"Intermediari spec. nel comm. di a. prod.";6
+"G";"461900";"Ic. di prod. senza prevalenza di alcuno";6
+"G";"462100";"Ci. di cereali, tabacco grezzo";6
+"G";"462200";"Ci. di fiori e piante";6
+"G";"462300";"Ci. di animali vivi";6
+"G";"462400";"Ci. di pelli e cuoio";6
+"G";"463100";"Ci. di frutta e ortaggi";6
+"G";"463200";"Ci. di carni e di prod. a base di carne";6
+"G";"463300";"Ci. di prod. lattiero-caseari, uova, oli";6
+"G";"463401";"Ci. di vini e liquori";6
+"G";"463402";"Ci. di altre bevande";6
+"G";"463500";"Ci. di prodotti del tabacco";6
+"G";"463600";"Ci. di zucchero, cioccolato e dolciumi";6
+"G";"463700";"Ci. di cafè, tè, cacao e spezie";6
+"G";"463800";"Ci. di altri prod. alim., inclusi pesci";6
+"G";"463900";"Ci. non spec. di prod. alim., bevande";6
+"G";"464100";"Ci. di prodotti tessili";6
+"G";"464201";"Ci. di capi di abbigliamento";6
+"G";"464202";"Ci. di calzature";6
+"G";"464301";"Ci. di elettrodomestici";6
+"G";"464302";"Ci. di app. radio e televisori";6
+"G";"464303";"Ci. di app. fotografici e cinematograf.";6
+"G";"464400";"Ci. di art. di porcellana e di vetro";6
+"G";"464500";"Ci. di profumi e cosmetici";6
+"G";"464601";"Ci. di prod. farmaceutici";6
+"G";"464602";"Ci. di art. med., chirurgici, ortopedici";6
+"G";"464700";"Ci. di mobili, tappeti";6
+"G";"464801";"Ci. di orologi";6
+"G";"464802";"Ci. di gioielleria";6
+"G";"464901";"Ci. di art. di cartoleria, libri";6
+"G";"464902";"Ci. di giochi e giocattoli";6
+"G";"464903";"Ci. di articoli sportivi";6
+"G";"464904";"Ci. di marocchinerie e art. da viaggio";6
+"G";"464905";"Ci. di art. da regalo e ogetti ricordo";6
+"G";"464906";"Ci. di altri prod. per uso dom. nca";6
+"G";"465101";"Ci. di computer e app. inf. periferiche";6
+"G";"465102";"Ci. di software";6
+"G";"465200";"Ci. di app. el. e per telecomunicazioni";6
+"G";"466100";"Ci. di macch., attrezz. forniture agr.";6
+"G";"466200";"Ci. di macchine utensili";6
+"G";"466300";"Ci. di macch. per l'estr., l'edilizia";6
+"G";"466400";"Ci. di macch. per l'industria tessile";6
+"G";"466500";"Ci. di mobili per ufficio";6
+"G";"466600";"Ci. di a. macch., attrezz. per ufficio";6
+"G";"466900";"Ci. di altri macch. e attrezzature";6
+"G";"467100";"Ci. di combustibili solidi, liquidi";6
+"G";"467200";"Ci. di met. e di min. metalliferi";6
+"G";"467301";"Ci. di legname e di elem. da costr.";6
+"G";"467302";"Ci. di materiali da costruzione";6
+"G";"467303";"Ci. di vetro piano";6
+"G";"467400";"Ci. di ferramenta, di apparecchi";6
+"G";"467500";"Ci. di prod. chimici";6
+"G";"467600";"Ci. di altri prod. intermedi";6
+"G";"467701";"Ci. di pezzi separati di automobili";6
+"G";"467702";"Ci. di rottami e cascami";6
+"G";"469000";"Ci. non specializzato";6
+"G";"471101";"Ipermercati (>2500m2)";6
+"G";"471102";"Grandi supermercati (1000-2499 m2)";6
+"G";"471103";"Piccoli supermercati (400-999 m2)";6
+"G";"471104";"Grandi esercizi (100-399 m2)";6
+"G";"471105";"Piccoli esercizi (< 100 m2)";6
+"G";"471901";"Grandi magazzini";6
+"G";"471902";"Altro cd. in esercizi non spec. nca";6
+"G";"472100";"Cd. di frutta e verdura";6
+"G";"472200";"Cd. di carni e di prod. a base di carne";6
+"G";"472300";"Cd. di pesci, crostacei e molluschi";6
+"G";"472401";"Cd. di pane, pasticceria e dolciumi";6
+"G";"472402";"Panetterie e tea room";6
+"G";"472500";"Cd. di bevande in esercizi specializzati";6
+"G";"472600";"Cd. di prod. del tabacco";6
+"G";"472901";"Cd. di prod. lattiero-caseari e uova";6
+"G";"472902";"A. cd. di prod. alim., bevande nca";6
+"G";"473000";"Cd. di carburante per autotrazione";6
+"G";"474100";"Cd. di computer, unita periferiche";6
+"G";"474200";"Cd. di app. per le telecomunicazioni";6
+"G";"474300";"Cd. di app. audio e video";6
+"G";"475100";"Cd. di prodotti tess. in esercizi spec.";6
+"G";"475201";"Cd. specializzato di ferramenta";6
+"G";"475202";"Cd. di altri art. di ferramenta, colori";6
+"G";"475300";"Cd. di tappeti, scendiletto";6
+"G";"475400";"Cd. di elettrodomestici";6
+"G";"475901";"Cd. di strumenti musicali";6
+"G";"475902";"Cd. di mobili";6
+"G";"475903";"Cd. d. art. per uso dom. nca";6
+"G";"476100";"Cd. di libri in esercizi specializzati";6
+"G";"476201";"Cd. di giornali e periodici; chioschi";6
+"G";"476202";"Cd. di art. di cartoleria";6
+"G";"476300";"Cd. di registrazioni musicali";6
+"G";"476401";"Cd.di biciclette";6
+"G";"476402";"Cd. di articoli sportivi";6
+"G";"476500";"Cd. di giochi e giocattoli";6
+"G";"477101";"Cd. di confezioni per donna";6
+"G";"477102";"Cd. di confezioni per uomo";6
+"G";"477103";"Cd. di conf. per bambini e neonati";6
+"G";"477104";"Cd. di pellicce";6
+"G";"477105";"Cd. d'acc. di abb., di art. di abb. s.p.";6
+"G";"477201";"Cd. di calzature";6
+"G";"477202";"Cd. di articoli di pelletteria";6
+"G";"477300";"Cd. di medicinali in esercizi spec.";6
+"G";"477400";"Cd. di art. med. e ortopedici";6
+"G";"477501";"Drogherie";6
+"G";"477502";"Profumerie e a. cd. di cosm., profumi";6
+"G";"477601";"Cd. di cereali, alimenti per il bestiame";6
+"G";"477602";"Cd. di fiori e piante";6
+"G";"477603";"Cd. di anim. dom. e acc. per anim. dom.";6
+"G";"477700";"Cd. di orologi e art. di gioielleria";6
+"G";"477801";"Cd. di combustibili e carburanti";6
+"G";"477802";"Cd. di occhiali e art. simili";6
+"G";"477803";"Cd. di art. fotografici";6
+"G";"477804";"Cd. di art. da regalo e oggetti ricordo";6
+"G";"477805";"Cd. di oggetti d'arte";6
+"G";"477806";"Cd. di altri prod. in esercizi spec. nca";6
+"G";"477901";"Cd. di oggetti d'antiquariato";6
+"G";"477902";"Cd. di altri art. di seconda mano nca";6
+"G";"478100";"Cd. ambulante in bancarelle";6
+"G";"478200";"Cd. ambulante in bancarelle";6
+"G";"478900";"Cd. ambulante in bancarelle";6
+"G";"479100";"Cd. per corrisp. o attraverso Internet";6
+"G";"479900";"Altri tipi di cd. al di fuori dei negozi";6
+"H";"491000";"Trasp. ferroviario di passeggeri";6
+"H";"492000";"Trasp. ferroviairo di merci";6
+"H";"493100";"Trasp. terrestre di pass. in aree urbane";6
+"H";"493200";"Trasporto con taxi";6
+"H";"493901";"Trasp. terrestri non regolari di pass.";6
+"H";"493902";"Trasp. regol. reg. e interurb. d. viag.";6
+"H";"493903";"Trasp. mediante teleferiche";6
+"H";"494100";"Trasp. di merci su strada";6
+"H";"494200";"Servizi di trasloco";6
+"H";"495000";"Trasp. mediante condotte";6
+"H";"501000";"Trasp. marittimo e costiero di pass.";6
+"H";"502000";"Trasp. marittimo e costiero di merci";6
+"H";"503000";"Trasp. di pass. per vie d'acqua interne";6
+"H";"504000";"Trasp. di merci per vie d'acqua interne";6
+"H";"511000";"Trasp. aereo di passeggeri";6
+"H";"512100";"Trasp. aereo di merci";6
+"H";"512200";"Trasp. spaziale";6
+"H";"521000";"Magazzinaggio e custodia";6
+"H";"522100";"Att. dei serv. conn. al trasp. terrestre";6
+"H";"522200";"Att. dei serv. conn. al trasp. marittimo";6
+"H";"522300";"Att. dei serv. conn. al trasp. aereo";6
+"H";"522400";"Movimentazione merci";6
+"H";"522900";"A. att. di supporto connesse ai trasp.";6
+"H";"531000";"Att. postali con obbligo di serv. univ.";6
+"H";"532000";"Altre att. postali e di corriere";6
+"I";"551001";"Alberghi, locande e pens. con rist.";6
+"I";"551002";"Alberghi, locande e pens. senza rist.";6
+"I";"551003";"Amm. e gestione di alberghi";6
+"I";"552001";"Appart. e case di vacanza";6
+"I";"552002";"Alloggi collettivi";6
+"I";"552003";"Amm. e gestione di case di vacanza";6
+"I";"553001";"Campeggi";6
+"I";"553002";"Amm. e gestione di campeggi";6
+"I";"559000";"Altri alloggi";6
+"I";"561001";"Rist., loc. per la piccola ristorazione";6
+"I";"561002";"Rist. con possibilità di alloggio";6
+"I";"561003";"Amm. e gest. di stab. attivi nella rist.";6
+"I";"562100";"Catering per eventi";6
+"I";"562900";"Altri servizi di ristorazione";6
+"I";"563001";"Bar";6
+"I";"563002";"Discoteche, sale da ballo, night club";6
+"J";"581100";"Edizione di libri";6
+"J";"581200";"Pubbl. di elenchi e mailing list";6
+"J";"581300";"Edizione di quotidiani";6
+"J";"581400";"Edizione di riviste e periodici";6
+"J";"581900";"Altre att. editoriali";6
+"J";"582100";"Ed. di giochi per computer";6
+"J";"582900";"Edizione di altri software";6
+"J";"591100";"Att. di prod. cinematografica";6
+"J";"591200";"Att. di postproduzione cinematograf.";6
+"J";"591300";"Att. di distr. cinematografica";6
+"J";"591400";"Att. di proiezione cinematografica";6
+"J";"592000";"Att. di reg. sonora e dell'edit. mus.";6
+"J";"601000";"Trasmissioni radiofoniche";6
+"J";"602000";"Trasm. tele. e progr. per abbonati";6
+"J";"611000";"Telecomunicazioni fisse";6
+"J";"612000";"Telecomunicazioni mobili";6
+"J";"613000";"Telecomunicazioni satellitari";6
+"J";"619000";"Altre att. di telecomunicazione";6
+"J";"620100";"Att. di programazione informatica";6
+"J";"620200";"Att. di consulenza informatica";6
+"J";"620300";"Gestione di strutt. informatizzate";6
+"J";"620900";"A. att. d. serv. conn. a. tecn. d. info.";6
+"J";"631100";"Elab. dei dati, hosting e att. connesse";6
+"J";"631200";"Portali web";6
+"J";"639100";"Att. delle agenzie di stampa";6
+"J";"639900";"Altre att. dei servizi di info. nca";6
+"K";"641100";"Banca nazionale svizzera";6
+"K";"641901";"Istituti a statuto speciale";6
+"K";"641902";"Banche cantonali";6
+"K";"641903";"Grandi banche";6
+"K";"641904";"Banche reg. e casse di risparmio";6
+"K";"641905";"Banche Raiffeisen";6
+"K";"641906";"Banche commerciali";6
+"K";"641907";"Istituti spec. nelle operazione di borsa";6
+"K";"641908";"Banche controllate da capitale estero";6
+"K";"641909";"Filiali di banche estere";6
+"K";"641910";"Banche private";6
+"K";"641911";"Altre banche";6
+"K";"641912";"A. intermed. monetarie nca";6
+"K";"642001";"Att. d. società di partecipazione fin.";6
+"K";"642002";"Att. d. società di altre partecipazione";6
+"K";"643000";"Trust, fondi e anlaloghi enti finanziari";6
+"K";"649100";"Leasing finanziario";6
+"K";"649201";"Istituti di credito al consumo";6
+"K";"649202";"Altri istituti di credito speciale";6
+"K";"649901";"Società d'investimento";6
+"K";"649902";"Att. di tresoreria in un grup. d'impresa";6
+"K";"649903";"Altri istituti finanziari nca";6
+"K";"651100";"Assicurazioni sulla vita";6
+"K";"651201";"Assic. contro gli infortuni (INSAI)";6
+"K";"651202";"Assic. contro gli infortuni e i danni";6
+"K";"651203";"Casse malati";6
+"K";"651204";"Altre assic. nca";6
+"K";"652000";"Riassicurazioni";6
+"K";"653000";"Fondi pensione";6
+"K";"661100";"Amm. di mercati finanziari";6
+"K";"661200";"Att. di neg. di contrat. relat. a titoli";6
+"K";"661900";"Altre att. aus. dei serv. finanziari";6
+"K";"662100";"Valutazione dei rischi e dei danni";6
+"K";"662200";"Att. di agenti e intermediari d. assic.";6
+"K";"662901";"Casse di compensazione";6
+"K";"662902";"A. att. d. assic. e d. fondi pens. nca";6
+"K";"663001";"Gestione di fondi";6
+"K";"663002";"Att. di gestione dei fondi";6
+"L";"681000";"Compravendita di beni imm.";6
+"L";"682001";"Affitto e gest. di terreni propri";6
+"L";"682002";"Affitto e gestione di abit. proprie";6
+"L";"683100";"Agenzie di mediazione imm.";6
+"L";"683200";"Gestione di immobili per conto terzi";6
+"M";"691001";"Attività degli studi legali e notarili";6
+"M";"691002";"Consulenza legale in proprietà ind.";6
+"M";"692000";"Contabilità, contr. e rev. contabile";6
+"M";"701001";"Att. delle sedi centrali d. società fin.";6
+"M";"701002";"Att. delle sedi centrali d. a. società";6
+"M";"702100";"Pubbliche relazioni e comunicazione";6
+"M";"702200";"A. att. di consulenza amm.-gestionale";6
+"M";"711101";"Studi di architettura";6
+"M";"711102";"Studi di pianificazione territoriale";6
+"M";"711103";"Studi di architettura del paesaggio";6
+"M";"711201";"Studi d'ingegneria civile";6
+"M";"711202";"Studi d'ing. e d. impianti tecnici edili";6
+"M";"711203";"Altri studi d'ingegneria";6
+"M";"711204";"Studi di geometri";6
+"M";"711205";"A. att. di consulenza tecnica";6
+"M";"712000";"Collaudi e analisi tecniche";6
+"M";"721100";"R-S sperim. nel set. della biotecnologia";6
+"M";"721900";"A. R-S sperim. nel campo d. scienze nat.";6
+"M";"722000";"R-S sperim. nel campo d. scienze soc.";6
+"M";"731100";"Agenzie pubblicitarie";6
+"M";"731200";"Att. d. concessionarie pubblicitarie";6
+"M";"732000";"Ricerche di mercato, sond. di opinione";6
+"M";"741001";"Design ind. e dei prodotti";6
+"M";"741002";"Design grafico e comunicazione visiva";6
+"M";"741003";"Architettura d'interni, design d. spazio";6
+"M";"742001";"Studi fotografici";6
+"M";"742002";"Laboratori fotografici";6
+"M";"743000";"Traduzioni e interpretariato";6
+"M";"749000";"A. att. prof., scientifiche e tecn. nca";6
+"M";"750000";"Servizi veterinari";6
+"N";"771100";"Nol. e leasing di automobili e autov.";6
+"N";"771200";"Noleggio e leasing di autocarri";6
+"N";"772100";"Noleggio e leasing di art. sportivi";6
+"N";"772200";"Noleggio di videocassette, DVD";6
+"N";"772900";"Nol. e leasing di a. beni per uso pers.";6
+"N";"773100";"Nol. e leasing di macch. e attrezz. agr.";6
+"N";"773200";"Noleggio e leasing di macchine";6
+"N";"773300";"Noleggio e leasing di macchine";6
+"N";"773400";"Nol., leasing di mezzi di trasp. maritt.";6
+"N";"773500";"Nol. e leasing di mezzi di trasp. aerei";6
+"N";"773900";"Nol. e leasing di altre macchine";6
+"N";"774000";"Leasing di prod. di proprietà intellet.";6
+"N";"781000";"Att. di agenzie di collocamento";6
+"N";"782000";"Att. di agenzie di lav. interinale";6
+"N";"783000";"Altre att. di fornitura di risorse umane";6
+"N";"791100";"Att. delle agenzie di viaggio";6
+"N";"791200";"Att. dei tour operator";6
+"N";"799001";"Serv. di prenot. per alloggi turistici";6
+"N";"799002";"A. serv. di prenotazione e att. conn.";6
+"N";"801000";"Servizi di vigilanza privata";6
+"N";"802000";"Att. d. serv. conn. ai sistemi di vigil.";6
+"N";"803000";"Servizi investigativi";6
+"N";"811000";"Serv. di assistenza integrata agli edif.";6
+"N";"812100";"Pulizia generale di edifici";6
+"N";"812201";"Pulizia di camini";6
+"N";"812202";"A. att. di pulizia ind. e di edifici";6
+"N";"812900";"Altre attività di pulizia";6
+"N";"813000";"Att. di sistemazione del paesaggio";6
+"N";"821100";"Servizi amministrativi integrati";6
+"N";"821901";"Servizi di segreteria";6
+"N";"821902";"Stampa rapida";6
+"N";"822000";"Attività dei call center";6
+"N";"823000";"Organ. di convegni e fiere";6
+"N";"829100";"Att. di agenzie di recupero crediti";6
+"N";"829200";"Attività di imballaggio";6
+"N";"829900";"A. serv. di supporto alle imprese nca";6
+"O";"841100";"Att. gen. di amministrazione pubblica";6
+"O";"841200";"Amm. pubbl. d. sanità, d. istr. d. cult.";6
+"O";"841300";"Amm. pubbl. riv. a. regol. d. att. econ.";6
+"O";"842100";"Affari esteri";6
+"O";"842201";"Difesa";6
+"O";"842202";"Protezione civile";6
+"O";"842301";"Amm. della giustizia, tribunali";6
+"O";"842302";"Att. degli stabilimenti penitenziari";6
+"O";"842400";"Ordine pubbl. e sicurezza nazionale";6
+"O";"842500";"Attività dei vigili del fuoco";6
+"O";"843000";"Assicurazione AVS, AI, AD";6
+"P";"851000";"Istruzione prescolastica";6
+"P";"852001";"Scuole elementari";6
+"P";"852002";"Scuole con progr. d'insegnamento spec.";6
+"P";"852003";"Scuole obbligatorie nca";6
+"P";"853101";"Scuole secondarie di primo grado";6
+"P";"853102";"Scuole di prep. alla maturità";6
+"P";"853103";"Scuole di formazione gen. di sec. grado";6
+"P";"853200";"Istruzione sec. di formazione prof.";6
+"P";"854100";"Istruzione superiore non universitaria";6
+"P";"854201";"Istituti superiori universitari";6
+"P";"854202";"Scuole universitarie prof.";6
+"P";"854203";"Formazione professionale superiore";6
+"P";"855100";"Corsi sportivi e ricreativi";6
+"P";"855200";"Formazione culturale";6
+"P";"855300";"Attività di scuole guida";6
+"P";"855901";"Istruzione linguistica";6
+"P";"855902";"Istruzione informatica";6
+"P";"855903";"Perfezionamento prof., form. d. adulti";6
+"P";"855904";"Altri servizi d'istruzione nca";6
+"P";"856000";"Serv. di supporto all'istruzione";6
+"Q";"861001";"Ospedali generali";6
+"Q";"861002";"Cliniche specializzate";6
+"Q";"862100";"Serv. degli studi medici generici";6
+"Q";"862200";"Serv. degli studi medici specialistici";6
+"Q";"862300";"Serv. degli studi medico-dentistici";6
+"Q";"869001";"Psicoterapia e psicologia";6
+"Q";"869002";"Fisioterapia";6
+"Q";"869003";"Att. d'infermiere, cure a domicilio";6
+"Q";"869004";"Att. di ostretiche e levatrici";6
+"Q";"869005";"Altre attività paramediche";6
+"Q";"869006";"Laboratori di analisi cliniche";6
+"Q";"869007";"Altre attività sanitarie nca";6
+"Q";"871000";"Case di cura medicalizzate";6
+"Q";"872001";"Istituti per tossicomani";6
+"Q";"872002";"Ist.per il tratt. di casi psico-sociali";6
+"Q";"873001";"Case per anziani";6
+"Q";"873002";"Istituti per handicappati";6
+"Q";"879001";"Istituti per bambini e adolescenti";6
+"Q";"879002";"Centri di rieducazione";6
+"Q";"879003";"Altre forme di assist. sociale resid.";6
+"Q";"881000";"Assist. soc. non resid. per anziani";6
+"Q";"889100";"Asili-nido, strutt. per bambini";6
+"Q";"889901";"Centri sociali, organ. caritative";6
+"Q";"889902";"Altre forme di assist. sociale nca";6
+"R";"900101";"Rappresent. teatrali e di balletti";6
+"R";"900102";"Att. di orchestre, cori, musicisti";6
+"R";"900200";"Att. di supporto a. rappresent. artist.";6
+"R";"900301";"Att. di pittori, scult., artist. indip.";6
+"R";"900302";"A. att. artistiche e letterarie";6
+"R";"900303";"Giornalisti indipendenti";6
+"R";"900400";"Gest. di strutture artistiche";6
+"R";"910100";"Att. di biblioteche e archivi";6
+"R";"910200";"Attività dei musei";6
+"R";"910300";"Gest. di luoghi e monumenti storici";6
+"R";"910400";"Att. degli orti botanici";6
+"R";"920000";"Att. riguardanti scommesse";6
+"R";"931100";"Gest. d'impianti sportivi";6
+"R";"931200";"Associazioni sportive";6
+"R";"931300";"Istituti di ginnastica e fitness";6
+"R";"931900";"Altre att. sportive";6
+"R";"932100";"Att. dei parchi di divertimento";6
+"R";"932900";"Altre att. di intrattenimento";6
+"S";"941100";"Att. di organ. economiche";6
+"S";"941200";"Att. di organ. associative professionali";6
+"S";"942000";"Attività dei sindacati";6
+"S";"949101";"Parrocchie, curie e organ. religiose";6
+"S";"949102";"Conventi e congregazioni religiose";6
+"S";"949200";"Att. delle organizzazioni politiche";6
+"S";"949901";"Organ. per il promovimento della cultura";6
+"S";"949902";"Organizzazioni per la salute";6
+"S";"949903";"Associazioni giovanili";6
+"S";"949904";"Altre att. di organ. associative nca";6
+"S";"951100";"Ripar. di computer, di unità periferiche";6
+"S";"951200";"Ripar. di app. per le comunicazioni";6
+"S";"952100";"Ripar. di prod. di el. di consumo";6
+"S";"952200";"Ripar. di elettrodomestici";6
+"S";"952300";"Ripar. di calzature e art. in pelle";6
+"S";"952400";"Ripar. di mobili e di oggetti di arred.";6
+"S";"952500";"Ripar. di orologi e di gioielli";6
+"S";"952900";"Ripar. di altri beni per uso pers.";6
+"S";"960101";"Lavanderia";6
+"S";"960102";"Pulitura a secco di art. tessili";6
+"S";"960201";"Saloni di parrucchiere";6
+"S";"960202";"Istituti di bellezza";6
+"S";"960300";"Serv. di pompe funebri e att. conn.";6
+"S";"960401";"Saune, solarium";6
+"S";"960402";"A. serv. per il benessere fisico";6
+"S";"960900";"Altre att. di servizi pers. nca";6
+"T";"970000";"Att. di fam. e conv. come datori di lav.";6
+"T";"981000";"Prod. di beni indiff. per uso proprio";6
+"T";"982000";"Prod. di serv. indiff. per uso proprio";6
+"U";"990001";"Consolati";6
+"U";"990002";"Ambasciate";6
+"U";"990003";"Organ. internazionali";6
