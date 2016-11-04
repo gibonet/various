@@ -55,5 +55,12 @@ d %>%
   set_options(keep_aspect = TRUE) %>%
   hide_axis("x") %>% hide_axis("y") %>% 
   handle_click(on_click = function(data, ...) {print(data)})
-# I took this last example from this link:
+# I took this last example from this link (the handle_click line):
 # # http://www.alshum.com/ggvis-maps/
+
+
+# plotly::ggplotly()
+p2 <- ggswissmaps::maps2_(d)
+p2 + geom_polygon(aes(fill = KTNAME), alpha = 0.5) + 
+  theme(legend.position = "none")
+plotly::ggplotly()
