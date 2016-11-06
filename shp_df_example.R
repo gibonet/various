@@ -1,3 +1,4 @@
+rm(list = ls())
 
 load("data/shp_df.rda")
 
@@ -64,3 +65,24 @@ p2 <- ggswissmaps::maps2_(d)
 p2 + geom_polygon(aes(fill = KTNAME), alpha = 0.5) + 
   theme(legend.position = "none")
 plotly::ggplotly()
+
+centroidi_cantoni <- d %>%
+  group_by(KTNAME) %>%
+  distinct(X_CNTR, Y_CNTR)
+
+geom_list <- list(
+  geom_path(data = d, 
+            aes_string(x = "long", y = "lat", group = "group")),
+  geom_polygon(data = d, 
+               aes(x = long, y = lat, group = group, fill = Z_MAX), 
+               colour = "white"),
+  geom_text(aes_(x = ~X_CNTR, y = ~Y_CNTR, label = ~KTNAME),
+            data = centroidi_cantoni),
+  coord_equal(),
+  ggswissmaps::theme_white_f()
+)
+p3 <- ggplot() + geom_list
+p3
+
+plotly::ggplotly(p = p3)
+
