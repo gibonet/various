@@ -1,6 +1,7 @@
 # CRAN
 install.packages("tidyverse")
 install.packages("devtools")
+install.packages("ggthemes")
 install.packages("bookdown")
 install.packages("rmarkdown")
 install.packages("data.table")
@@ -30,7 +31,9 @@ install.packages("spatstat")
 install.packages("sqldf")
 install.packages("tables")
 install.packages("tm")
+install.packages("XML")
 install.packages("yhatr")
+install.packages("pxR")
 
 
 # github
@@ -39,4 +42,6 @@ install_github("gibonet/comuniTI")
 install_github("gibonet/decr")
 install_github("gibonet/gibr")
 install_github("gibonet/tidy2spatial")
+install_github("gibonet/tidy2px")
+
 install_github("hadley/pkgdown")
