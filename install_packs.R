@@ -34,6 +34,7 @@ install.packages("tm")
 install.packages("XML")
 install.packages("yhatr")
 install.packages("pxR")
+install.packages("MonetDBLite")
 
 
 # github
@@ -43,5 +44,8 @@ install_github("gibonet/decr")
 install_github("gibonet/gibr")
 install_github("gibonet/tidy2spatial")
 install_github("gibonet/tidy2px")
+install_github("gibonet/distrr")
 
 install_github("hadley/pkgdown")
+install_github("hadley/pkgdown")
+install_github("cpsievert/staticdocs")
