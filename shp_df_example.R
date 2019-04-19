@@ -27,9 +27,20 @@ p + geom_path() + coord_equal()
 
 
 # From that, polygons can be filled with colors, by adding a geom_polygon layer:
-p + geom_path() + coord_equal() + geom_polygon(aes(fill = KTNAME), alpha = 0.5)
+p + 
+  geom_path() + 
+  coord_equal() + 
+  geom_polygon(aes(fill = KTNAME), alpha = 0.5)
 
-# Or, geocoded data can be added on the map (with geom_point or other types of layers, as geom_density2d, geom_hexbin, ...)
+# with ggpolypath::geom_polypath() instead of ggplot2::geom_polygon()
+library(ggpolypath)
+p +
+  geom_path() + 
+  coord_equal() + 
+  geom_polypath(aes(fill = KTNAME), alpha = 0.5)
+
+# Or, geocoded data can be added on the map (with geom_point or other types of
+# layers, as geom_density2d, geom_hexbin, ...)
 
 
 # The coordinates can be plotted with ggvis too:
