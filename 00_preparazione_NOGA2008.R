@@ -30,14 +30,13 @@ noga08 <- noga08 %>% left_join(noga08_long, by = c("sezioni", "codici"))
 
 # Ed estraggo la lista di interesse in base alla lunghezza della colonna 'codici'
 noga08 <- noga08 %>% mutate(l = nchar(codici))
-noga08 <- as_data_frame(noga08)
 
 # Esporto in csv e in rda (la lista completa della nomenclatura NOGA 2008)
 gibr::export(noga08, name = "data/noga08.csv")
-save(noga08, file = "data/noga08.rda")
+save(noga08, file = "data/noga08.rda", version = 2)
 # load("data/noga08.rda")
 
-table(noga08$l)
+table(noga08$l, useNA = "always")
 
 # Codici a 1 digit (sezioni)
 # In questo caso il codice univoco è nella colonna 'sezioni' (e non 'codici')
@@ -46,7 +45,7 @@ nrow(noga08_sezioni) == length(unique(noga08_sezioni$sezioni))  # deve dare TRUE
 
 # E li esporto in csv e in rda
 gibr::export(noga08_sezioni, name = "data/noga08_sezioni.csv")
-save(noga08_sezioni, file = "data/noga08_sezioni.rda")
+save(noga08_sezioni, file = "data/noga08_sezioni.rda", version = 2)
 
 
 
@@ -56,7 +55,7 @@ nrow(noga082) == length(unique(noga082$codici))  # deve dare TRUE
 
 # E li esporto in csv e in rda
 gibr::export(noga082, name = "data/noga082.csv")
-save(noga082, file = "data/noga082.rda")
+save(noga082, file = "data/noga082.rda", version = 2)
 
 
 
@@ -66,7 +65,7 @@ nrow(noga083) == length(unique(noga083$codici))  # deve dare TRUE
 
 # E li esporto in csv e in rda
 gibr::export(noga083, name = "data/noga083.csv")
-save(noga083, file = "data/noga083.rda")
+save(noga083, file = "data/noga083.rda", version = 2)
 
 
 
@@ -76,7 +75,7 @@ nrow(noga084) == length(unique(noga084$codici))  # deve dare TRUE
 
 # E li esporto in csv e in rda
 gibr::export(noga084, name = "data/noga084.csv")
-save(noga084, file = "data/noga084.rda")
+save(noga084, file = "data/noga084.rda", version = 2)
 
 
 
@@ -86,4 +85,4 @@ nrow(noga086) == length(unique(noga086$codici))  # deve dare TRUE
 
 # E li esporto in csv e in rda
 gibr::export(noga086, name = "data/noga086.csv")
-save(noga086, file = "data/noga086.rda")
+save(noga086, file = "data/noga086.rda", version = 2)
