@@ -1,273 +1,273 @@
-"sezioni";"codici";"titoli_corti";"l"
-"A";"011";"Colt. di colture agricole non permanenti";3
-"A";"012";"Colt. di colture permanenti";3
-"A";"013";"Riprod. delle piante";3
-"A";"014";"All. di animali";3
-"A";"015";"Colt. agr. ass. all'all. di animali";3
-"A";"016";"Att. di supporto all'agricoltura";3
-"A";"017";"Caccia, cattura di animali";3
-"A";"021";"Silvicolt. e altre att. forestali";3
-"A";"022";"Utilizzo di aree forest.";3
-"A";"023";"Raccolta di prod. non legnosi selvatici";3
-"A";"024";"Servizi di supporto per la silvicolt.";3
-"A";"031";"Pesca";3
-"A";"032";"Acquicolt.";3
-"B";"051";"Estr. di antracite";3
-"B";"052";"Estr. di lignite";3
-"B";"061";"Estr. di petrolio greggio";3
-"B";"062";"Estr. di gas naturale";3
-"B";"071";"Estr. di min. metalliferi ferrosi";3
-"B";"072";"Estr. di min. metalliferi non ferrosi";3
-"B";"081";"Estr. di pietra, sabbia e argilla";3
-"B";"089";"Estr. di min. e prod. di cava nca";3
-"B";"091";"Att. di supporto all'estr. di petrolio";3
-"B";"099";"Att. di supporto ad altre att. estr.";3
-"C";"101";"Lavorazione e cons. di carne";3
-"C";"102";"Lavorazione e cons. di pesce";3
-"C";"103";"Lavorazione e cons. di frutta e ortaggi";3
-"C";"104";"Prod. di oli e grassi vegetali e animali";3
-"C";"105";"Prod. di latte e latticini";3
-"C";"106";"Lav. delle granaglie, prod. di amidi";3
-"C";"107";"F. di prod. da forno e farinacei";3
-"C";"108";"Prod. di altri prodotti alimentari";3
-"C";"109";"Prod. di prod. per l'alim. degli animali";3
-"C";"110";"Prod. di bevande";3
-"C";"120";"Prod. di tabacchi";3
-"C";"131";"Prep. e filatura di fibre tessili";3
-"C";"132";"Tessitura";3
-"C";"133";"Finissaggio dei tess.";3
-"C";"139";"Altre industrie tess.";3
-"C";"141";"Conf. di articoli di abbigliamento";3
-"C";"142";"Conf. di articoli in pelliccia";3
-"C";"143";"F. di articoli di maglieria";3
-"C";"151";"Prep. e concia del cuoio";3
-"C";"152";"F. di calzature";3
-"C";"161";"Taglio e piallatura del legno";3
-"C";"162";"F. di prod. in legno, sughero, paglia";3
-"C";"171";"F. di pasta-carta, carta e cartone";3
-"C";"172";"F. di art. di carta e di cartone";3
-"C";"181";"Stampa e servizi connessi alla stampa";3
-"C";"182";"Riprod. su supporti registrati";3
-"C";"191";"F. di prodotti di cokeria";3
-"C";"192";"F. di prod. derivanti dalla raffin.";3
-"C";"201";"F. di prod. chimici di base";3
-"C";"202";"F. di fitofarmaci e di altri prod. chim.";3
-"C";"203";"F. di pitture, vernici e smalti";3
-"C";"204";"F. di saponi e detergenti";3
-"C";"205";"F. di altri prodotti chimici";3
-"C";"206";"F. di fibre sint. e artificiali";3
-"C";"211";"F. di prodotti farmaceutici di base";3
-"C";"212";"F. di preparati farmaceutici";3
-"C";"221";"F. di articoli in gomma";3
-"C";"222";"F. di articoli in materie plastiche";3
-"C";"231";"F. di vetro e di prodotti in vetro";3
-"C";"232";"F. di prodotti refrattari";3
-"C";"233";"F. di mat. da costr. in terracotta";3
-"C";"234";"F. di altri prod. in porcellana";3
-"C";"235";"Prod. di cemento, calce e gesso";3
-"C";"236";"F. di prod. in calces., cemento e gesso";3
-"C";"237";"Taglio, modellatura e finit. di pietre";3
-"C";"239";"F. d. prod. abr. e di min. non met. nca";3
-"C";"241";"Att. siderurgiche";3
-"C";"242";"F. di tubi, condotti, profilati cavi";3
-"C";"243";"F. di prod. d. prima trasf. d. acciaio";3
-"C";"244";"Prod. di metalli di base preziosi";3
-"C";"245";"Attività di fonderie";3
-"C";"251";"F. di elementi da costruzione in met.";3
-"C";"252";"F. di cisterne, serbatoi e cont. in met.";3
-"C";"253";"F. di generatori di vapore";3
-"C";"254";"F. di armi e munizioni";3
-"C";"255";"Fucinatura, imbutitura, stampaggio";3
-"C";"256";"Tratt. e rivestimento dei metalli";3
-"C";"257";"F. di art. di coltelleria, utensili";3
-"C";"259";"F. di altri prodotti in metallo";3
-"C";"261";"F. di componenti elettronici";3
-"C";"262";"F. di computer e unità periferiche";3
-"C";"263";"F. di app. per le comunicazioni";3
-"C";"264";"F. di prod. di el. di consumo";3
-"C";"265";"F. di strumenti e app. di misurazione";3
-"C";"266";"F. di strum. per irradiazione medicale";3
-"C";"267";"F. di strum. ottici e attrezz. fotograf.";3
-"C";"268";"F. di supporti ottici e magnetici";3
-"C";"271";"F. di motori, generatori e trasf. el.";3
-"C";"272";"F. di batterie e accumulatori";3
-"C";"273";"F. di cablaggi e app. di cablaggio";3
-"C";"274";"F. di app. per illuminazione";3
-"C";"275";"F. di app. per uso domestico";3
-"C";"279";"F. di altre app. elettriche";3
-"C";"281";"F. di macchine d'impiego generale";3
-"C";"282";"F. di altre macch. d'impiego generale";3
-"C";"283";"F. di macch. per l'agr. e la silvicolt.";3
-"C";"284";"F. di macch. per la formatura dei met.";3
-"C";"289";"F. di altre macch. per impieghi spec.";3
-"C";"291";"F. di autoveicoli";3
-"C";"292";"F. di carrozzerie per autoveicoli";3
-"C";"293";"F. di parti ed acc. per autoveicoli";3
-"C";"301";"costr. di navi e imbarcazioni";3
-"C";"302";"Costr. di locomotive e di mat. rotabile";3
-"C";"303";"F. di aeromobili, di veicoli spaziali";3
-"C";"304";"F. di veicoli militari da combatt.";3
-"C";"309";"F. di mezzi di trasporto nca";3
-"C";"310";"F. di mobili";3
-"C";"321";"F. di gioielleria, bigiotteria";3
-"C";"322";"F. di strumenti musicali";3
-"C";"323";"F. di articoli sportivi";3
-"C";"324";"F. di giochi e giocattoli";3
-"C";"325";"F. di strum. e forniture med. e dentist.";3
-"C";"329";"Ind. manifatturiere nca";3
-"C";"331";"Ripar. di prod. in metallo, macchine";3
-"C";"332";"Inst. di macch. ed app. industriali";3
-"D";"351";"Prod., trasm. e distr. di energia el.";3
-"D";"352";"Prod. di gas; distr. di combust. gassosi";3
-"D";"353";"Fornitura di vapore e aria condizionata";3
-"E";"360";"Raccolta, tratt. e fornitura di acqua";3
-"E";"370";"Gestione delle reti fognarie";3
-"E";"381";"Raccolta dei rifiuti";3
-"E";"382";"Tratt. e smaltimento dei rifiuti";3
-"E";"383";"Recupero di materiali";3
-"E";"390";"Att. di risanamento";3
-"F";"411";"Sviluppo di progetti imm.";3
-"F";"412";"Costr. di edifici resid. e non resid.";3
-"F";"421";"Costr. di strade e ferrovie";3
-"F";"422";"Costruzione di infrastrutture";3
-"F";"429";"Costr. di altre opere di ing. civile";3
-"F";"431";"Demolizione e prep. del cantiere edile";3
-"F";"432";"Inst. d'impianti elettrici";3
-"F";"433";"Completamento e finitura di edifici";3
-"F";"439";"Altri lav. specializzati di costruzione";3
-"G";"451";"Commercio di autoveicoli";3
-"G";"452";"Man. e riparazione di autoveicoli";3
-"G";"453";"Comm. di parti e acc. di autoveicoli";3
-"G";"454";"Comm., man. e ripar. di motocicli";3
-"G";"461";"Intermediari del commercio";3
-"G";"462";"Ci. di mat. prime agricole e anim. vivi";3
-"G";"463";"Ci. di prod. alim., bevande e tabacco";3
-"G";"464";"Ci. di beni di consumo";3
-"G";"465";"Ci. di apparecchiature ICT";3
-"G";"466";"Ci. di a. macch., attrezz. e forniture";3
-"G";"467";"Ci. specializzato di altri prodotti";3
-"G";"469";"Ci. non specializzato";3
-"G";"471";"Cd. in esercizi non specializzati";3
-"G";"472";"Cd. di prodotti alim. bev. e tabacco";3
-"G";"473";"Cd. di carburante per autotrazione";3
-"G";"474";"Cd. di app. di info. e comunicazione";3
-"G";"475";"Cd.di altri oggetti di uso domestico";3
-"G";"476";"Cd. di art. culturali e ricreativi";3
-"G";"477";"Cd. di altri prod. in esercizi spec.";3
-"G";"478";"Cd. ambulante in bancarelle e mercati";3
-"G";"479";"Cd. al di fuori dei negozi";3
-"H";"491";"Trasp. ferroviario di passeggeri";3
-"H";"492";"Trasp. ferroviairo di merci";3
-"H";"493";"Altri trasp. terrestri di passeggeri";3
-"H";"494";"Trasp. di merci su strada";3
-"H";"495";"Trasp. mediante condotte";3
-"H";"501";"Trasp. marittimo e costiero di pass.";3
-"H";"502";"Trasp. marittimo e costiero di merci";3
-"H";"503";"Trasp. di pass. per vie d'acqua interne";3
-"H";"504";"Trasp. di merci per vie d'acqua interne";3
-"H";"511";"Trasp. aereo di passeggeri";3
-"H";"512";"Trasp. aereo di merci e trasp. spaziale";3
-"H";"521";"Magazzinaggio e custodia";3
-"H";"522";"Att. di supporto ai trasporti";3
-"H";"531";"Att. postali con obbligo di serv. univ.";3
-"H";"532";"Altre att. postali e di corriere";3
-"I";"551";"Alberghi e alloggio simili";3
-"I";"552";"Alloggi per vacanze per brevi soggiorni";3
-"I";"553";"Aree di camp. e aree attrezz. per camper";3
-"I";"559";"Altri alloggi";3
-"I";"561";"Rist. e att. di ristorazione mobile";3
-"I";"562";"Catering per eventi e a. serv. di rist.";3
-"I";"563";"Somministrazione di bevande";3
-"J";"581";"Ed. di libri, periodici e a. att. edit.";3
-"J";"582";"Edizione di software";3
-"J";"591";"Att. di prod. cinematografica";3
-"J";"592";"Att. di reg. sonora e dell'edit. mus.";3
-"J";"601";"Trasmissioni radiofoniche";3
-"J";"602";"Att. di progr. e trasm. televisive";3
-"J";"611";"Telecomunicazioni fisse";3
-"J";"612";"Telecomunicazioni mobili";3
-"J";"613";"Telecomunicazioni satellitari";3
-"J";"619";"Altre att. di telecomunicazione";3
-"J";"620";"Progr., consulenza informatica";3
-"J";"631";"Elab. dei dati, hosting e att. connesse";3
-"J";"639";"Altre att. dei serv. di informazione";3
-"K";"641";"Intermediazione monetaria";3
-"K";"642";"Att. delle società di partecipazione";3
-"K";"643";"Trust, fondi e analoghi enti finanziari";3
-"K";"649";"Altre prestazioni di servizi fin.";3
-"K";"651";"Assicurazioni";3
-"K";"652";"Riassicurazioni";3
-"K";"653";"Fondi pensione";3
-"K";"661";"Att. aus. d. serv. fin., escl. le assic.";3
-"K";"662";"Att. aus. d. assic. e dei fondi pensione";3
-"K";"663";"Att. di gestione di fondi";3
-"L";"681";"Compravendita di beni imm.";3
-"L";"682";"Affitto e gest. di beni imm. propri";3
-"L";"683";"Att. immobiliari per conto terzi";3
-"M";"691";"Attività degli studi legali";3
-"M";"692";"Contabilità, contr. e rev. contabile";3
-"M";"701";"Attività di sedi centrali";3
-"M";"702";"Att. di consulenza gestionale";3
-"M";"711";"Att. d. studi di architettura";3
-"M";"712";"Collaudi e analisi tecniche";3
-"M";"721";"R-S sperim. nel campo d. scienze nat.";3
-"M";"722";"R-S sperim. nel campo d. scienze soc.";3
-"M";"731";"Pubblicità";3
-"M";"732";"Ricerche di mercato, sond. di opinione";3
-"M";"741";"Attività di design specializzate";3
-"M";"742";"Attività fotografiche";3
-"M";"743";"Traduzioni e interpretariato";3
-"M";"749";"A. att. prof., scientifiche e tecn. nca";3
-"M";"750";"Servizi veterinari";3
-"N";"771";"Noleggio e leasing di autov.";3
-"N";"772";"Nol. e leasing di beni per uso pers.";3
-"N";"773";"Nol. e leasing di altre macchine";3
-"N";"774";"Leasing di prod. di proprietà intellet.";3
-"N";"781";"Att. di agenzie di collocamento";3
-"N";"782";"Att. di agenzie di lav. interinale";3
-"N";"783";"Altre att. di fornitura di risorse umane";3
-"N";"791";"Att. delle agenzie di viaggio";3
-"N";"799";"A. serv. di prenotazione e att. conn.";3
-"N";"801";"Servizi di vigilanza privata";3
-"N";"802";"Att. d. serv. conn. ai sistemi di vigil.";3
-"N";"803";"Servizi investigativi";3
-"N";"811";"Serv. di assistenza integrata agli edif.";3
-"N";"812";"Attività di pulizia";3
-"N";"813";"Att. di sistemazione del paesaggio";3
-"N";"821";"Att. amm. e di supporto";3
-"N";"822";"Attività dei call center";3
-"N";"823";"Organ. di convegni e fiere";3
-"N";"829";"Serv. di supporto alle imprese nca";3
-"O";"841";"Amm. pubbl.: amm. gen., econ. e sociale";3
-"O";"842";"Affari esteri, difesa, giustizia, sicur.";3
-"O";"843";"Assic. sociale obbligatoria";3
-"P";"851";"Istruzione prescolastica";3
-"P";"852";"Istruzione primaria";3
-"P";"853";"Istruzione secondaria";3
-"P";"854";"Istr. universitaria e post-universitaria";3
-"P";"855";"Altri servizi d'istruzione";3
-"P";"856";"Serv. di supporto all'istruzione";3
-"Q";"861";"Servizi ospedalieri";3
-"Q";"862";"Serv. d. studi medici ed odontoiatrici";3
-"Q";"869";"Altri serv. di assistenza sanitaria";3
-"Q";"871";"Att. di assist. infermieristica resid.";3
-"Q";"872";"Serv. di assist. resid. per rit. mentali";3
-"Q";"873";"Serv. di assist. resid. per anziani";3
-"Q";"879";"Altre att. di assist. residenziale";3
-"Q";"881";"Assist. soc. non resid. per anziani";3
-"Q";"889";"Altre att. di assist. soc. non resid.";3
-"R";"900";"Att. creative, artistiche e di intratt.";3
-"R";"910";"Att. di biblioteche, archivi, musei";3
-"R";"920";"Att. riguardanti scommesse";3
-"R";"931";"Attività sportive";3
-"R";"932";"Att. di intrattenimento";3
-"S";"941";"Att. di organ. economiche";3
-"S";"942";"Attività dei sindacati";3
-"S";"949";"Att. di altre organ. associative";3
-"S";"951";"Ripar. di computer, e di apparecchiature";3
-"S";"952";"Ripar. di beni per uso pers.";3
-"S";"960";"Altre att. di servizi personali";3
-"T";"970";"Att. di fam. e conv. come datori di lav.";3
-"T";"981";"Prod. di beni indiff. per uso proprio";3
-"T";"982";"Prod. di serv. indiff. per uso proprio";3
-"U";"990";"Att. di organ. e organismi extraterr.";3
+"sezioni";"codici";"titoli_corti";"titoli";"l"
+"A";"011";"Colt. di colture agricole non permanenti";"Coltivazione di colture agricole non permanenti";3
+"A";"012";"Colt. di colture permanenti";"Coltivazione di colture permanenti";3
+"A";"013";"Riprod. delle piante";"Riproduzione delle piante";3
+"A";"014";"All. di animali";"Allevamento di animali";3
+"A";"015";"Colt. agr. ass. all'all. di animali";"Coltivazioni agricole associate all'allevamento di animali: attività mista";3
+"A";"016";"Att. di supporto all'agricoltura";"Attività di supporto all'agricoltura e attività successive alla raccolta";3
+"A";"017";"Caccia, cattura di animali";"Caccia, cattura di animali e servizi connessi";3
+"A";"021";"Silvicolt. e altre att. forestali";"Silvicoltura e altre attività forestali";3
+"A";"022";"Utilizzo di aree forest.";"Utilizzo di aree forestali";3
+"A";"023";"Raccolta di prod. non legnosi selvatici";"Raccolta di prodotti non legnosi selvatici";3
+"A";"024";"Servizi di supporto per la silvicolt.";"Servizi di supporto per la silvicoltura";3
+"A";"031";"Pesca";"Pesca";3
+"A";"032";"Acquicolt.";"Acquicoltura";3
+"B";"051";"Estr. di antracite";"Estrazione di antracite";3
+"B";"052";"Estr. di lignite";"Estrazione di lignite";3
+"B";"061";"Estr. di petrolio greggio";"Estrazione di petrolio greggio";3
+"B";"062";"Estr. di gas naturale";"Estrazione di gas naturale";3
+"B";"071";"Estr. di min. metalliferi ferrosi";"Estrazione di minerali metalliferi ferrosi";3
+"B";"072";"Estr. di min. metalliferi non ferrosi";"Estrazione di minerali metalliferi non ferrosi";3
+"B";"081";"Estr. di pietra, sabbia e argilla";"Estrazione di pietra, sabbia e argilla";3
+"B";"089";"Estr. di min. e prod. di cava nca";"Estrazione di minerali e prodotti di cava n.c.a.";3
+"B";"091";"Att. di supporto all'estr. di petrolio";"Attività di supporto all'estrazione di petrolio e di gas naturale";3
+"B";"099";"Att. di supporto ad altre att. estr.";"Attività di supporto ad altre attività estrattive";3
+"C";"101";"Lavorazione e cons. di carne";"Lavorazione e conservazione di carne e produzione di prodotti a base di carne";3
+"C";"102";"Lavorazione e cons. di pesce";"Lavorazione e conservazione di pesce, crostacei e molluschi";3
+"C";"103";"Lavorazione e cons. di frutta e ortaggi";"Lavorazione e conservazione di frutta e ortaggi";3
+"C";"104";"Prod. di oli e grassi vegetali e animali";"Produzione di oli e grassi vegetali e animali";3
+"C";"105";"Prod. di latte e latticini";"Produzione di latte e latticini";3
+"C";"106";"Lav. delle granaglie, prod. di amidi";"Lavorazione delle granaglie, produzione di amidi e di prodotti amidacei";3
+"C";"107";"F. di prod. da forno e farinacei";"Fabbricazione di prodotti da forno e farinacei";3
+"C";"108";"Prod. di altri prodotti alimentari";"Produzione di altri prodotti alimentari";3
+"C";"109";"Prod. di prod. per l'alim. degli animali";"Produzione di prodotti per l'alimentazione degli animali";3
+"C";"110";"Prod. di bevande";"Produzione di bevande";3
+"C";"120";"Prod. di tabacchi";"Produzione di tabacchi";3
+"C";"131";"Prep. e filatura di fibre tessili";"Preparazione e filatura di fibre tessili";3
+"C";"132";"Tessitura";"Tessitura";3
+"C";"133";"Finissaggio dei tess.";"Finissaggio dei tessili";3
+"C";"139";"Altre industrie tess.";"Altre industrie tessili";3
+"C";"141";"Conf. di articoli di abbigliamento";"Confezione di articoli di abbigliamento, eccetto l'abbigliamento in pelliccia";3
+"C";"142";"Conf. di articoli in pelliccia";"Confezione di articoli in pelliccia";3
+"C";"143";"F. di articoli di maglieria";"Fabbricazione di articoli di maglieria";3
+"C";"151";"Prep. e concia del cuoio";"Preparazione e concia del cuoio; fabbricazione di articoli da viaggio, borse, pelletteria e selleria; preparazione e tintura di pellicce";3
+"C";"152";"F. di calzature";"Fabbricazione di calzature";3
+"C";"161";"Taglio e piallatura del legno";"Taglio e piallatura del legno";3
+"C";"162";"F. di prod. in legno, sughero, paglia";"Fabbricazione di prodotti in legno, sughero, paglia e materiali da intreccio";3
+"C";"171";"F. di pasta-carta, carta e cartone";"Fabbricazione di pasta-carta, carta e cartone";3
+"C";"172";"F. di art. di carta e di cartone";"Fabbricazione di articoli di carta e di cartone";3
+"C";"181";"Stampa e servizi connessi alla stampa";"Stampa e servizi connessi alla stampa";3
+"C";"182";"Riprod. su supporti registrati";"Riproduzione su supporti registrati";3
+"C";"191";"F. di prodotti di cokeria";"Fabbricazione di prodotti di cokeria";3
+"C";"192";"F. di prod. derivanti dalla raffin.";"Fabbricazione di prodotti derivanti dalla raffinazione del petrolio";3
+"C";"201";"F. di prod. chimici di base";"Fabbricazione di prodotti chimici di base, di fertilizzanti e di composti azotati, di materie plastiche e gomma sintetica in forme primarie";3
+"C";"202";"F. di fitofarmaci e di altri prod. chim.";"Fabbricazione di fitofarmaci e di altri prodotti chimici per l'agricoltura";3
+"C";"203";"F. di pitture, vernici e smalti";"Fabbricazione di pitture, vernici e smalti, inchiostri da stampa e adesivi sintetici";3
+"C";"204";"F. di saponi e detergenti";"Fabbricazione di saponi e detergenti, di prodotti per la pulizia e la lucidatura, di profumi e cosmetici";3
+"C";"205";"F. di altri prodotti chimici";"Fabbricazione di altri prodotti chimici";3
+"C";"206";"F. di fibre sint. e artificiali";"Fabbricazione di fibre sintetiche e artificiali";3
+"C";"211";"F. di prodotti farmaceutici di base";"Fabbricazione di prodotti farmaceutici di base";3
+"C";"212";"F. di preparati farmaceutici";"Fabbricazione di preparati farmaceutici";3
+"C";"221";"F. di articoli in gomma";"Fabbricazione di articoli in gomma";3
+"C";"222";"F. di articoli in materie plastiche";"Fabbricazione di articoli in materie plastiche";3
+"C";"231";"F. di vetro e di prodotti in vetro";"Fabbricazione di vetro e di prodotti in vetro";3
+"C";"232";"F. di prodotti refrattari";"Fabbricazione di prodotti refrattari";3
+"C";"233";"F. di mat. da costr. in terracotta";"Fabbricazione di materiali da costruzione in terracotta";3
+"C";"234";"F. di altri prod. in porcellana";"Fabbricazione di altri prodotti in porcellana e in ceramica";3
+"C";"235";"Prod. di cemento, calce e gesso";"Produzione di cemento, calce e gesso";3
+"C";"236";"F. di prod. in calces., cemento e gesso";"Fabbricazione di prodotti in calcestruzzo, cemento e gesso";3
+"C";"237";"Taglio, modellatura e finit. di pietre";"Taglio, modellatura e finitura di pietre";3
+"C";"239";"F. d. prod. abr. e di min. non met. nca";"Fabbricazione di prodotti abrasivi e di minerali non metalliferi n.c.a.";3
+"C";"241";"Att. siderurgiche";"Attività siderurgiche";3
+"C";"242";"F. di tubi, condotti, profilati cavi";"Fabbricazione di tubi, condotti, profilati cavi e relative guarnizioni in acciaio";3
+"C";"243";"F. di prod. d. prima trasf. d. acciaio";"Fabbricazione di altri prodotti della prima trasformazione dell'acciaio";3
+"C";"244";"Prod. di metalli di base preziosi";"Produzione di metalli di base preziosi e di altri non ferrosi";3
+"C";"245";"Attività di fonderie";"Attività di fonderie";3
+"C";"251";"F. di elementi da costruzione in met.";"Fabbricazione di elementi da costruzione in metallo";3
+"C";"252";"F. di cisterne, serbatoi e cont. in met.";"Fabbricazione di cisterne, serbatoi e contenitori in metallo";3
+"C";"253";"F. di generatori di vapore";"Fabbricazione di generatori di vapore, esclusi i contenitori in metallo per caldaie per il riscaldamento centrale ad acqua calda";3
+"C";"254";"F. di armi e munizioni";"Fabbricazione di armi e munizioni";3
+"C";"255";"Fucinatura, imbutitura, stampaggio";"Fucinatura, imbutitura, stampaggio e profilatura dei metalli; metallurgia delle polveri";3
+"C";"256";"Tratt. e rivestimento dei metalli";"Trattamento e rivestimento dei metalli; lavori di meccanica generale";3
+"C";"257";"F. di art. di coltelleria, utensili";"Fabbricazione di articoli di coltelleria, utensili e oggetti di ferramenta";3
+"C";"259";"F. di altri prodotti in metallo";"Fabbricazione di altri prodotti in metallo";3
+"C";"261";"F. di componenti elettronici";"Fabbricazione di componenti elettronici e schede elettroniche";3
+"C";"262";"F. di computer e unità periferiche";"Fabbricazione di computer e unità periferiche";3
+"C";"263";"F. di app. per le comunicazioni";"Fabbricazione di apparecchiature per le comunicazioni";3
+"C";"264";"F. di prod. di el. di consumo";"Fabbricazione di prodotti di elettronica di consumo";3
+"C";"265";"F. di strumenti e app. di misurazione";"Fabbricazione di strumenti e apparecchi di misurazione, prova e navigazione; orologi";3
+"C";"266";"F. di strum. per irradiazione medicale";"Fabbricazione di strumenti per irradiazione, apparecchiature elettromedicali ed elettroterapeutiche";3
+"C";"267";"F. di strum. ottici e attrezz. fotograf.";"Fabbricazione di strumenti ottici e attrezzature fotografiche";3
+"C";"268";"F. di supporti ottici e magnetici";"Fabbricazione di supporti ottici e magnetici";3
+"C";"271";"F. di motori, generatori e trasf. el.";"Fabbricazione di motori, generatori e trasformatori elettrici e di apparecchiature per la distribuzione e il controllo dell'elettricità";3
+"C";"272";"F. di batterie e accumulatori";"Fabbricazione di batterie e accumulatori";3
+"C";"273";"F. di cablaggi e app. di cablaggio";"Fabbricazione di cablaggi e apparecchiature di cablaggio";3
+"C";"274";"F. di app. per illuminazione";"Fabbricazione di apparecchiature per illuminazione";3
+"C";"275";"F. di app. per uso domestico";"Fabbricazione di apparecchi per uso domestico";3
+"C";"279";"F. di altre app. elettriche";"Fabbricazione di altre apparecchiature elettriche";3
+"C";"281";"F. di macchine d'impiego generale";"Fabbricazione di macchine di impiego generale";3
+"C";"282";"F. di altre macch. d'impiego generale";"Fabbricazione di altre macchine di impiego generale";3
+"C";"283";"F. di macch. per l'agr. e la silvicolt.";"Fabbricazione di macchine per l'agricoltura e la silvicoltura";3
+"C";"284";"F. di macch. per la formatura dei met.";"Fabbricazione di macchine per la formatura dei metalli e di altre macchine utensili";3
+"C";"289";"F. di altre macch. per impieghi spec.";"Fabbricazione di altre macchine per impieghi speciali";3
+"C";"291";"F. di autoveicoli";"Fabbricazione di autoveicoli";3
+"C";"292";"F. di carrozzerie per autoveicoli";"Fabbricazione di carrozzerie per autoveicoli; fabbricazione di rimorchi e semirimorchi";3
+"C";"293";"F. di parti ed acc. per autoveicoli";"Fabbricazione di parti ed accessori per autoveicoli";3
+"C";"301";"costr. di navi e imbarcazioni";"Costruzione di navi e imbarcazioni";3
+"C";"302";"Costr. di locomotive e di mat. rotabile";"Costruzione di locomotive e di materiale rotabile ferro-tranviario";3
+"C";"303";"F. di aeromobili, di veicoli spaziali";"Fabbricazione di aeromobili, di veicoli spaziali e dei relativi dispositivi";3
+"C";"304";"F. di veicoli militari da combatt.";"Fabbricazione di veicoli militari da combattimento";3
+"C";"309";"F. di mezzi di trasporto nca";"Fabbricazione di mezzi di trasporto n.c.a.";3
+"C";"310";"F. di mobili";"Fabbricazione di mobili";3
+"C";"321";"F. di gioielleria, bigiotteria";"Fabbricazione di gioielleria, bigiotteria e articoli connessi";3
+"C";"322";"F. di strumenti musicali";"Fabbricazione di strumenti musicali";3
+"C";"323";"F. di articoli sportivi";"Fabbricazione di articoli sportivi";3
+"C";"324";"F. di giochi e giocattoli";"Fabbricazione di giochi e giocattoli";3
+"C";"325";"F. di strum. e forniture med. e dentist.";"Fabbricazione di strumenti e forniture mediche e dentistiche";3
+"C";"329";"Ind. manifatturiere nca";"Industrie manifatturiere n.c.a.";3
+"C";"331";"Ripar. di prod. in metallo, macchine";"Riparazione di prodotti in metallo, macchine e apparecchiature";3
+"C";"332";"Inst. di macch. ed app. industriali";"Installazione di macchine ed apparecchiature industriali";3
+"D";"351";"Prod., trasm. e distr. di energia el.";"Produzione, trasmissione e distribuzione di energia elettrica";3
+"D";"352";"Prod. di gas; distr. di combust. gassosi";"Produzione di gas; distribuzione di combustibili gassosi mediante condotte";3
+"D";"353";"Fornitura di vapore e aria condizionata";"Fornitura di vapore e aria condizionata";3
+"E";"360";"Raccolta, tratt. e fornitura di acqua";"Raccolta, trattamento e fornitura di acqua";3
+"E";"370";"Gestione delle reti fognarie";"Gestione delle reti fognarie";3
+"E";"381";"Raccolta dei rifiuti";"Raccolta dei rifiuti";3
+"E";"382";"Tratt. e smaltimento dei rifiuti";"Trattamento e smaltimento dei rifiuti";3
+"E";"383";"Recupero di materiali";"Recupero dei materiali";3
+"E";"390";"Att. di risanamento";"Attività di risanamento e altri servizi di gestione dei rifiuti";3
+"F";"411";"Sviluppo di progetti imm.";"Sviluppo di progetti immobiliari";3
+"F";"412";"Costr. di edifici resid. e non resid.";"Costruzione di edifici residenziali e non residenziali";3
+"F";"421";"Costr. di strade e ferrovie";"Costruzione di strade e ferrovie";3
+"F";"422";"Costruzione di infrastrutture";"Costruzione di infrastrutture";3
+"F";"429";"Costr. di altre opere di ing. civile";"Costruzione di altre opere di ingegneria civile";3
+"F";"431";"Demolizione e prep. del cantiere edile";"Demolizione e preparazione del cantiere edile";3
+"F";"432";"Inst. d'impianti elettrici";"Installazione di impianti elettrici, idraulici e altri lavori di costruzione e installazione";3
+"F";"433";"Completamento e finitura di edifici";"Completamento e finitura di edifici";3
+"F";"439";"Altri lav. specializzati di costruzione";"Altri lavori specializzati di costruzione";3
+"G";"451";"Commercio di autoveicoli";"Commercio di autoveicoli";3
+"G";"452";"Man. e riparazione di autoveicoli";"Manutenzione e riparazione di autoveicoli";3
+"G";"453";"Comm. di parti e acc. di autoveicoli";"Commercio di parti e accessori di autoveicoli";3
+"G";"454";"Comm., man. e ripar. di motocicli";"Commercio, manutenzione e riparazione di motocicli e relativi parti ed accessori";3
+"G";"461";"Intermediari del commercio";"Intermediari del commercio";3
+"G";"462";"Ci. di mat. prime agricole e anim. vivi";"Commercio all'ingrosso di materie prime agricole e animali vivi";3
+"G";"463";"Ci. di prod. alim., bevande e tabacco";"Commercio all'ingrosso di prodotti alimentari, bevande e tabacco";3
+"G";"464";"Ci. di beni di consumo";"Commercio all'ingrosso di beni di consumo";3
+"G";"465";"Ci. di apparecchiature ICT";"Commercio all'ingrosso di apparecchiature ICT";3
+"G";"466";"Ci. di a. macch., attrezz. e forniture";"Commercio all'ingrosso di altri macchinari, attrezzature e forniture";3
+"G";"467";"Ci. specializzato di altri prodotti";"Commercio all'ingrosso specializzato di altri prodotti";3
+"G";"469";"Ci. non specializzato";"Commercio all'ingrosso non specializzato";3
+"G";"471";"Cd. in esercizi non specializzati";"Commercio al dettaglio in esercizi non specializzati";3
+"G";"472";"Cd. di prodotti alim. bev. e tabacco";"Commercio al dettaglio di prodotti alimentari, bevande e tabacco in esercizi specializzati";3
+"G";"473";"Cd. di carburante per autotrazione";"Commercio al dettaglio di carburante per autotrazione in esercizi specializzati";3
+"G";"474";"Cd. di app. di info. e comunicazione";"Commercio al dettaglio di apparecchiature di informazione e comunicazione in esercizi specializzati";3
+"G";"475";"Cd.di altri oggetti di uso domestico";"Commercio al dettaglio di altri oggetti di uso domestico in esercizi specializzati";3
+"G";"476";"Cd. di art. culturali e ricreativi";"Commercio al dettaglio di articoli culturali e ricreativi in esercizi specializzati";3
+"G";"477";"Cd. di altri prod. in esercizi spec.";"Commercio al dettaglio di altri prodotti in esercizi specializzati";3
+"G";"478";"Cd. ambulante in bancarelle e mercati";"Commercio al dettaglio ambulante in bancarelle e mercati";3
+"G";"479";"Cd. al di fuori dei negozi";"Commercio al dettaglio al di fuori dei negozi, delle bancarelle e dei mercati";3
+"H";"491";"Trasp. ferroviario di passeggeri";"Trasporto ferroviario di passeggeri (interurbano)";3
+"H";"492";"Trasp. ferroviairo di merci";"Trasporto ferroviario di merci";3
+"H";"493";"Altri trasp. terrestri di passeggeri";"Altri trasporti terrestri di passeggeri";3
+"H";"494";"Trasp. di merci su strada";"Trasporto di merci su strada e servizi di trasloco";3
+"H";"495";"Trasp. mediante condotte";"Trasporto mediante condotte";3
+"H";"501";"Trasp. marittimo e costiero di pass.";"Trasporto marittimo e costiero di passeggeri";3
+"H";"502";"Trasp. marittimo e costiero di merci";"Trasporto marittimo e costiero di merci";3
+"H";"503";"Trasp. di pass. per vie d'acqua interne";"Trasporto di passeggeri per vie d'acqua interne";3
+"H";"504";"Trasp. di merci per vie d'acqua interne";"Trasporto di merci per vie d'acqua interne";3
+"H";"511";"Trasp. aereo di passeggeri";"Trasporto aereo di passeggeri";3
+"H";"512";"Trasp. aereo di merci e trasp. spaziale";"Trasporto aereo di merci e trasporto spaziale";3
+"H";"521";"Magazzinaggio e custodia";"Magazzinaggio e custodia";3
+"H";"522";"Att. di supporto ai trasporti";"Attività di supporto ai trasporti";3
+"H";"531";"Att. postali con obbligo di serv. univ.";"Attività postali con obbligo di servizio universale";3
+"H";"532";"Altre att. postali e di corriere";"Altre attività postali e di corriere";3
+"I";"551";"Alberghi e alloggio simili";"Alberghi e alloggio simili";3
+"I";"552";"Alloggi per vacanze per brevi soggiorni";"Alloggi per vacanze e altre strutture per brevi soggiorni";3
+"I";"553";"Aree di camp. e aree attrezz. per camper";"Aree di campeggio e aree attrezzate per camper e roulotte";3
+"I";"559";"Altri alloggi";"Altri alloggi";3
+"I";"561";"Rist. e att. di ristorazione mobile";"Ristoranti e attività di ristorazione mobile";3
+"I";"562";"Catering per eventi e a. serv. di rist.";"Catering per eventi e altri servizi di ristorazione";3
+"I";"563";"Somministrazione di bevande";"Somministrazione di bevande";3
+"J";"581";"Ed. di libri, periodici e a. att. edit.";"Edizione di libri, periodici e altre attività editoriali";3
+"J";"582";"Edizione di software";"Edizione di software";3
+"J";"591";"Att. di prod. cinematografica";"Attività di produzione cinematografica, di video e di programmi televisivi";3
+"J";"592";"Att. di reg. sonora e dell'edit. mus.";"Attività di registrazione sonora e dell'editoria musicale";3
+"J";"601";"Trasmissioni radiofoniche";"Trasmissioni radiofoniche";3
+"J";"602";"Att. di progr. e trasm. televisive";"Attività di programmazione e trasmissione televisive";3
+"J";"611";"Telecomunicazioni fisse";"Telecomunicazioni fisse";3
+"J";"612";"Telecomunicazioni mobili";"Telecomunicazioni mobili";3
+"J";"613";"Telecomunicazioni satellitari";"Telecomunicazioni satellitari";3
+"J";"619";"Altre att. di telecomunicazione";"Altre attività di telecomunicazione";3
+"J";"620";"Progr., consulenza informatica";"Programmazione, consulenza informatica e attività connesse";3
+"J";"631";"Elab. dei dati, hosting e att. connesse";"Elaborazione dei dati, hosting e attività connesse; portali web";3
+"J";"639";"Altre att. dei serv. di informazione";"Altre attività dei servizi d'informazione";3
+"K";"641";"Intermediazione monetaria";"Intermediazione monetaria";3
+"K";"642";"Att. delle società di partecipazione";"Attività delle società di partecipazione (holding)";3
+"K";"643";"Trust, fondi e analoghi enti finanziari";"Trust (Società fiduciarie), fondi e analoghi enti finanziari";3
+"K";"649";"Altre prestazioni di servizi fin.";"Altre prestazioni di servizi finanziari (ad esclusione di assicurazioni e fondi pensione)";3
+"K";"651";"Assicurazioni";"Assicurazioni";3
+"K";"652";"Riassicurazioni";"Riassicurazioni";3
+"K";"653";"Fondi pensione";"Fondi pensione";3
+"K";"661";"Att. aus. d. serv. fin., escl. le assic.";"Attività ausiliarie dei servizi finanziari, escluse le assicurazioni e i fondi pensione";3
+"K";"662";"Att. aus. d. assic. e dei fondi pensione";"Attività ausiliarie delle assicurazioni e dei fondi pensione";3
+"K";"663";"Att. di gestione di fondi";"Attività di gestione di fondi";3
+"L";"681";"Compravendita di beni imm.";"Compravendita di beni immobili effettuata su beni propri";3
+"L";"682";"Affitto e gest. di beni imm. propri";"Affitto e gestione di beni immobili propri o in locazione";3
+"L";"683";"Att. immobiliari per conto terzi";"Attività immobiliari per conto terzi";3
+"M";"691";"Attività degli studi legali";"Attività degli studi legali";3
+"M";"692";"Contabilità, contr. e rev. contabile";"Contabilità, controllo e revisione contabile, consulenza in materia fiscale";3
+"M";"701";"Attività di sedi centrali";"Attività di sedi centrali";3
+"M";"702";"Att. di consulenza gestionale";"Attività di consulenza gestionale";3
+"M";"711";"Att. d. studi di architettura";"Attività degli studi di architettura, ingegneria e altri studi tecnici";3
+"M";"712";"Collaudi e analisi tecniche";"Collaudi e analisi tecniche";3
+"M";"721";"R-S sperim. nel campo d. scienze nat.";"Ricerca e sviluppo sperimentale nel campo delle scienze naturali e dell'ingegneria";3
+"M";"722";"R-S sperim. nel campo d. scienze soc.";"Ricerca e sviluppo sperimentale nel campo delle scienze sociali e umanistiche";3
+"M";"731";"Pubblicità";"Pubblicità";3
+"M";"732";"Ricerche di mercato, sond. di opinione";"Ricerche di mercato e sondaggi di opinione";3
+"M";"741";"Attività di design specializzate";"Attività di design specializzate";3
+"M";"742";"Attività fotografiche";"Attività fotografiche";3
+"M";"743";"Traduzioni e interpretariato";"Traduzioni e interpretariato";3
+"M";"749";"A. att. prof., scientifiche e tecn. nca";"Altre attività professionali, scientifiche e tecniche n.c.a.";3
+"M";"750";"Servizi veterinari";"Servizi veterinari";3
+"N";"771";"Noleggio e leasing di autov.";"Noleggio e leasing di autoveicoli";3
+"N";"772";"Nol. e leasing di beni per uso pers.";"Noleggio e leasing di beni per uso personale e per la casa";3
+"N";"773";"Nol. e leasing di altre macchine";"Noleggio e leasing di altre macchine, attrezzature e beni materiali";3
+"N";"774";"Leasing di prod. di proprietà intellet.";"Leasing di prodotti di proprietà intellettuale e simili, ad eccezione delle opere soggette a diritto d'autore";3
+"N";"781";"Att. di agenzie di collocamento";"Attività di agenzie di collocamento";3
+"N";"782";"Att. di agenzie di lav. interinale";"Attività di agenzie di lavoro interinale";3
+"N";"783";"Altre att. di fornitura di risorse umane";"Altre attività di fornitura di risorse umane";3
+"N";"791";"Att. delle agenzie di viaggio";"Attività delle agenzie di viaggio e dei tour operator";3
+"N";"799";"A. serv. di prenotazione e att. conn.";"Altri servizi di prenotazione e attività connesse";3
+"N";"801";"Servizi di vigilanza privata";"Servizi di vigilanza privata";3
+"N";"802";"Att. d. serv. conn. ai sistemi di vigil.";"Attività dei servizi connessi ai sistemi di vigilanza";3
+"N";"803";"Servizi investigativi";"Servizi investigativi";3
+"N";"811";"Serv. di assistenza integrata agli edif.";"Servizi di assistenza integrata agli edifici";3
+"N";"812";"Attività di pulizia";"Attività di pulizia";3
+"N";"813";"Att. di sistemazione del paesaggio";"Attività di sistemazione del paesaggio";3
+"N";"821";"Att. amm. e di supporto";"Attività amministrative e di supporto per le funzioni d'ufficio";3
+"N";"822";"Attività dei call center";"Attività dei call center";3
+"N";"823";"Organ. di convegni e fiere";"Organizzazione di convegni e fiere";3
+"N";"829";"Serv. di supporto alle imprese nca";"Servizi di supporto alle imprese n.c.a.";3
+"O";"841";"Amm. pubbl.: amm. gen., econ. e sociale";"Amministrazione pubblica: amministrazione generale, economica e sociale";3
+"O";"842";"Affari esteri, difesa, giustizia, sicur.";"Affari esteri, difesa, giustizia, sicurezza e ordine pubblico";3
+"O";"843";"Assic. sociale obbligatoria";"Assicurazione sociale obbligatoria";3
+"P";"851";"Istruzione prescolastica";"Istruzione prescolastica";3
+"P";"852";"Istruzione primaria";"Istruzione primaria";3
+"P";"853";"Istruzione secondaria";"Istruzione secondaria";3
+"P";"854";"Istr. universitaria e post-universitaria";"Istruzione universitaria e post-universitaria";3
+"P";"855";"Altri servizi d'istruzione";"Altri servizi di istruzione";3
+"P";"856";"Serv. di supporto all'istruzione";"Servizi di supporto all'istruzione";3
+"Q";"861";"Servizi ospedalieri";"Servizi ospedalieri";3
+"Q";"862";"Serv. d. studi medici ed odontoiatrici";"Servizi degli studi medici ed odontoiatrici";3
+"Q";"869";"Altri serv. di assistenza sanitaria";"Altri servizi di assistenza sanitaria";3
+"Q";"871";"Att. di assist. infermieristica resid.";"Attività di assistenza infermieristica residenziale";3
+"Q";"872";"Serv. di assist. resid. per rit. mentali";"Servizi di assistenza residenziale per ritardi mentali, disturbi mentali e abuso di sostanze stupefacenti";3
+"Q";"873";"Serv. di assist. resid. per anziani";"Servizi di assistenza residenziale per anziani e disabili";3
+"Q";"879";"Altre att. di assist. residenziale";"Altre attività di assistenza residenziale";3
+"Q";"881";"Assist. soc. non resid. per anziani";"Assistenza sociale non residenziale per anziani e disabili";3
+"Q";"889";"Altre att. di assist. soc. non resid.";"Altre attività di assistenza sociale non residenziale";3
+"R";"900";"Att. creative, artistiche e di intratt.";"Attività creative, artistiche e d'intrattenimento";3
+"R";"910";"Att. di biblioteche, archivi, musei";"Attività di biblioteche, archivi, musei e altre attività culturali";3
+"R";"920";"Att. riguardanti scommesse";"Attività riguardanti scommesse e case da gioco";3
+"R";"931";"Attività sportive";"Attività sportive";3
+"R";"932";"Att. di intrattenimento";"Attività di intrattenimento e di divertimento";3
+"S";"941";"Att. di organ. economiche";"Attività di organizzazioni economiche, di datori di lavoro e professionali";3
+"S";"942";"Attività dei sindacati";"Attività dei sindacati";3
+"S";"949";"Att. di altre organ. associative";"Attività di altre organizzazioni associative";3
+"S";"951";"Ripar. di computer, e di apparecchiature";"Riparazione di computer e di apparecchiature per le comunicazioni";3
+"S";"952";"Ripar. di beni per uso pers.";"Riparazione di beni per uso personale e per la casa";3
+"S";"960";"Altre att. di servizi personali";"Altre attività di servizi personali";3
+"T";"970";"Att. di fam. e conv. come datori di lav.";"Attività di famiglie e convivenze come datori di lavoro per personale domestico";3
+"T";"981";"Prod. di beni indiff. per uso proprio";"Produzione di beni indifferenziati per uso proprio da parte di famiglie e convivenze";3
+"T";"982";"Prod. di serv. indiff. per uso proprio";"Produzione di servizi indifferenziati per uso proprio da parte di famiglie e convivenze";3
+"U";"990";"Att. di organ. e organismi extraterr.";"Attività di organizzazioni e organismi extraterritoriali";3
