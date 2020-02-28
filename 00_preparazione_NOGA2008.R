@@ -22,6 +22,11 @@ str(noga08)
 colnames(noga08) <- c("sezioni", "codici", "titoli_corti")
 str(noga08)
 
+noga08_long <- read_excel("do-i-00.04-noga-03.xls", sheet = "Titoli 2008",
+                          range = "A1:C1791")
+colnames(noga08_long) <- c("sezioni", "codici", "titoli")
+
+noga08 <- noga08 %>% left_join(noga08_long, by = c("sezioni", "codici"))
 
 # Ed estraggo la lista di interesse in base alla lunghezza della colonna 'codici'
 noga08 <- noga08 %>% mutate(l = nchar(codici))
