@@ -1,4 +1,4 @@
-library(XLConnect)
+library(readxl)
 library(dplyr)
 
 # download della lista completa dei codici NOGA 2008
@@ -6,16 +6,17 @@ url_noga <- "https://www.bfs.admin.ch/bfsstatic/dam/assets/262597/master"
 # nome_noga <- basename(url_noga)
 nome_noga <- "do-i-00.04-noga-03.xls"
 
-download.file(url_noga, destfile = nome_noga, mode = "wb")
+if(!(file.exists(nome_noga))){
+  download.file(url_noga, destfile = nome_noga, mode = "wb")
+}
 # Da quando l'Ust ha pubblicato il nuovo portale, non si può più scaricare
 # il file 'in automatico', ma bisogna farlo manualmente. Lo si può fare
 # copiando l'url qui sopra e incollandolo in un browser.
 
 
 # Importazione dei titoli dal file excel
-wb <- loadWorkbook("do-i-00.04-noga-03.xls")
-
-noga08 <- readWorksheet(wb, sheet = "Titoli corti 2008", endRow = 1791)
+noga08 <- read_excel("do-i-00.04-noga-03.xls", sheet = "Titoli corti 2008",
+                     range = "A1:C1791")
 str(noga08)
 
 colnames(noga08) <- c("sezioni", "codici", "titoli_corti")
